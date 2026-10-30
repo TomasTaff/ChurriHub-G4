@@ -1,39 +1,47 @@
-   # Publica ChurriHub en GitHub Pages cada vez que se sube un cambio a la rama main.
-   # Antes de publicar corre las pruebas automáticas: si alguna falla, no se publica.
-   name: Publicar en GitHub Pages
+# Publica ChurriHub en GitHub Pages cada vez que se sube un cambio a la rama main.
+# El proyecto está dentro de la carpeta "churrihub V3.0" del repositorio.
+# Antes de publicar corre las pruebas automáticas: si alguna falla, no se publica.
+name: Publicar en GitHub Pages
 
-   on:
-     push:
-       branches: [main]
-     workflow_dispatch:
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
 
-   permissions:
-     contents: read
-     pages: write
-     id-token: write
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
-   concurrency:
-     group: pages
-     cancel-in-progress: true
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
-   jobs:
-     publicar:
-       runs-on: ubuntu-latest
-       environment:
-         name: github-pages
-         url: ${{ steps.deployment.outputs.page_url }}
-       steps:
-         - uses: actions/checkout@v4
-         - uses: actions/setup-node@v4
-           with:
-             node-version: 20
-             cache: npm
-         - run: npm ci
-         - run: npm test
-         - run: npm run build
-         - uses: actions/configure-pages@v5
-         - uses: actions/upload-pages-artifact@v3
-           with:
-             path: dist
-         - id: deployment
-           uses: actions/deploy-pages@v4
+env:
+  APP_DIR: churrihub V3.0
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    defaults:
+      run:
+        working-directory: ${{ env.APP_DIR }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: ${{ env.APP_DIR }}/package-lock.json
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ env.APP_DIR }}/dist
+      - id: deployment
+        uses: actions/deploy-pages@v4
