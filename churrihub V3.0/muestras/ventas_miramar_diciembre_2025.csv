@@ -1,0 +1,1956 @@
+﻿Fecha;Producto;Cantidad;Precio Unitario;Medio de Pago;Canal
+01/12/2025;Churro simple;40;900;Efectivo;Mostrador
+01/12/2025;Churro simple;39;900;Tarjeta de débito;Mostrador
+01/12/2025;Churro simple;34;900;Mercado Pago QR;Mostrador
+01/12/2025;Churro simple;18;900;PedidosYa (pago en app);PedidosYa
+01/12/2025;Churro simple;4;900;Mercado Pago QR;Delivery propio
+01/12/2025;Churro con cobertura de chocolate;18;1150;Efectivo;Mostrador
+01/12/2025;Churro con cobertura de chocolate;16;1150;Tarjeta de débito;Mostrador
+01/12/2025;Churro con cobertura de chocolate;13;1150;Mercado Pago QR;Mostrador
+01/12/2025;Churro con cobertura de chocolate;8;1150;PedidosYa (pago en app);PedidosYa
+01/12/2025;Churro con cobertura de chocolate;1;1150;Mercado Pago QR;Delivery propio
+01/12/2025;Churro relleno común;28;1200;Efectivo;Mostrador
+01/12/2025;Churro relleno común;23;1200;Tarjeta de débito;Mostrador
+01/12/2025;Churro relleno común;21;1200;Mercado Pago QR;Mostrador
+01/12/2025;Churro relleno común;9;1200;PedidosYa (pago en app);PedidosYa
+01/12/2025;Churro relleno común;2;1200;Efectivo;Delivery propio
+01/12/2025;Churro relleno especial;9;1200;Efectivo;Mostrador
+01/12/2025;Churro relleno especial;10;1200;Tarjeta de débito;Mostrador
+01/12/2025;Churro relleno especial;8;1200;Mercado Pago QR;Mostrador
+01/12/2025;Churro relleno especial;4;1200;PedidosYa (pago en app);PedidosYa
+01/12/2025;Churro salado;7;1200;Efectivo;Mostrador
+01/12/2025;Churro salado;8;1200;Tarjeta de débito;Mostrador
+01/12/2025;Churro salado;6;1200;Mercado Pago QR;Mostrador
+01/12/2025;Churro salado;5;1200;PedidosYa (pago en app);PedidosYa
+01/12/2025;Churro salado;2;1200;Efectivo;Delivery propio
+01/12/2025;Café chico;7;3450;Efectivo;Mostrador
+01/12/2025;Café chico;7;3450;Tarjeta de débito;Mostrador
+01/12/2025;Café chico;6;3450;Mercado Pago QR;Mostrador
+01/12/2025;Café chico;7;3450;PedidosYa (pago en app);PedidosYa
+01/12/2025;Café chico;3;3450;Mercado Pago QR;Delivery propio
+01/12/2025;Café grande;4;3600;Efectivo;Mostrador
+01/12/2025;Café grande;4;3600;Tarjeta de débito;Mostrador
+01/12/2025;Café grande;3;3600;Mercado Pago QR;Mostrador
+01/12/2025;Café grande;2;3600;PedidosYa (pago en app);PedidosYa
+01/12/2025;Café grande;2;3600;Efectivo;Delivery propio
+01/12/2025;Coca-Cola;10;2400;Efectivo;Mostrador
+01/12/2025;Coca-Cola;10;2400;Tarjeta de débito;Mostrador
+01/12/2025;Coca-Cola;6;2400;Mercado Pago QR;Mostrador
+01/12/2025;Coca-Cola;4;2400;PedidosYa (pago en app);PedidosYa
+01/12/2025;Coca-Cola;2;2400;Efectivo;Delivery propio
+01/12/2025;Coca-Cola Zero;2;2400;Efectivo;Mostrador
+12/12/2025;Churro salado;6;;Efectivo;Mostrador
+01/12/2025;Coca-Cola Zero;2;2400;Tarjeta de débito;Mostrador
+01/12/2025;Coca-Cola Zero;2;2400;Mercado Pago QR;Mostrador
+01/12/2025;Coca-Cola Zero;3;2400;PedidosYa (pago en app);PedidosYa
+01/12/2025;Fanta;3;2400;Efectivo;Mostrador
+01/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+01/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+01/12/2025;Fanta;3;2400;PedidosYa (pago en app);PedidosYa
+01/12/2025;Fanta;2;2400;Mercado Pago QR;Delivery propio
+01/12/2025;Sprite;1;2400;Efectivo;Mostrador
+01/12/2025;Sprite;1;2400;Tarjeta de débito;Mostrador
+01/12/2025;Sprite;1;2400;Mercado Pago QR;Mostrador
+01/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+01/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+01/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+01/12/2025;Agua con gas;1;1950;Tarjeta de débito;Mostrador
+01/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+01/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+01/12/2025;Agua sin gas;5;1950;Efectivo;Mostrador
+01/12/2025;Agua sin gas;6;1950;Tarjeta de débito;Mostrador
+01/12/2025;Agua sin gas;4;1950;Mercado Pago QR;Mostrador
+01/12/2025;Agua sin gas;4;1950;PedidosYa (pago en app);PedidosYa
+01/12/2025;Agua sin gas;2;1950;Efectivo;Delivery propio
+02/12/2025;Churro simple;43;900;Efectivo;Mostrador
+02/12/2025;Churro simple;37;900;Tarjeta de débito;Mostrador
+02/12/2025;Churro simple;29;900;Mercado Pago QR;Mostrador
+02/12/2025;Churro simple;18;900;PedidosYa (pago en app);PedidosYa
+02/12/2025;Churro simple;6;900;Efectivo;Delivery propio
+02/12/2025;Churro con cobertura de chocolate;15;1150;Efectivo;Mostrador
+02/12/2025;Churro con cobertura de chocolate;14;1150;Tarjeta de débito;Mostrador
+02/12/2025;Churro con cobertura de chocolate;13;1150;Mercado Pago QR;Mostrador
+02/12/2025;Churro con cobertura de chocolate;9;1150;PedidosYa (pago en app);PedidosYa
+02/12/2025;Churro relleno común;24;1200;Efectivo;Mostrador
+02/12/2025;Churro relleno común;23;1200;Tarjeta de débito;Mostrador
+02/12/2025;Churro relleno común;23;1200;Mercado Pago QR;Mostrador
+02/12/2025;Churro relleno común;13;1200;PedidosYa (pago en app);PedidosYa
+02/12/2025;Churro relleno común;3;1200;Efectivo;Delivery propio
+02/12/2025;Churro relleno especial;8;1200;Efectivo;Mostrador
+02/12/2025;Churro relleno especial;7;1200;Tarjeta de débito;Mostrador
+02/12/2025;Churro relleno especial;6;1200;Mercado Pago QR;Mostrador
+02/12/2025;Churro relleno especial;4;1200;PedidosYa (pago en app);PedidosYa
+02/12/2025;Churro relleno especial;1;1200;Efectivo;Delivery propio
+02/12/2025;Churro salado;6;1200;Efectivo;Mostrador
+02/12/2025;Churro salado;5;1200;Tarjeta de débito;Mostrador
+02/12/2025;Churro salado;5;1200;Mercado Pago QR;Mostrador
+02/12/2025;Churro salado;5;1200;PedidosYa (pago en app);PedidosYa
+02/12/2025;Churro salado;2;1200;Mercado Pago QR;Delivery propio
+02/12/2025;Café chico;6;3450;Efectivo;Mostrador
+02/12/2025;Café chico;8;3450;Tarjeta de débito;Mostrador
+02/12/2025;Café chico;6;3450;Mercado Pago QR;Mostrador
+02/12/2025;Café chico;7;3450;PedidosYa (pago en app);PedidosYa
+02/12/2025;Café chico;1;3450;Efectivo;Delivery propio
+02/12/2025;Café grande;6;3600;Efectivo;Mostrador
+02/12/2025;Café grande;7;3600;Tarjeta de débito;Mostrador
+02/12/2025;Café grande;7;3600;Mercado Pago QR;Mostrador
+02/12/2025;Café grande;5;3600;PedidosYa (pago en app);PedidosYa
+02/12/2025;Café grande;3;3600;Mercado Pago QR;Delivery propio
+02/12/2025;Coca-Cola;6;2400;Efectivo;Mostrador
+02/12/2025;Coca-Cola;7;2400;Tarjeta de débito;Mostrador
+02/12/2025;Coca-Cola;5;2400;Mercado Pago QR;Mostrador
+02/12/2025;Coca-Cola;6;2400;PedidosYa (pago en app);PedidosYa
+02/12/2025;Coca-Cola;1;2400;Efectivo;Delivery propio
+02/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+02/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+02/12/2025;Coca-Cola Zero;2;2400;Mercado Pago QR;Mostrador
+02/12/2025;Coca-Cola Zero;2;2400;PedidosYa (pago en app);PedidosYa
+02/12/2025;Fanta;3;2400;Efectivo;Mostrador
+02/12/2025;Fanta;3;2400;Tarjeta de débito;Mostrador
+02/12/2025;Fanta;3;2400;Mercado Pago QR;Mostrador
+02/12/2025;Fanta;1;2400;Mercado Pago QR;Delivery propio
+02/12/2025;Sprite;4;2400;Efectivo;Mostrador
+02/12/2025;Sprite;4;2400;Tarjeta de débito;Mostrador
+02/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+02/12/2025;Sprite;1;2400;PedidosYa (pago en app);PedidosYa
+02/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+02/12/2025;Agua con gas;3;1950;Efectivo;Mostrador
+02/12/2025;Agua con gas;3;1950;Tarjeta de débito;Mostrador
+02/12/2025;Agua con gas;3;1950;Mercado Pago QR;Mostrador
+02/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+02/12/2025;Agua sin gas;4;1950;Efectivo;Mostrador
+18/12/2025;Medialunas;4;900;Efectivo;Mostrador
+02/12/2025;Agua sin gas;4;1950;Tarjeta de débito;Mostrador
+02/12/2025;Agua sin gas;3;1950;Mercado Pago QR;Mostrador
+02/12/2025;Agua sin gas;4;1950;PedidosYa (pago en app);PedidosYa
+02/12/2025;Agua sin gas;2;1950;Mercado Pago QR;Delivery propio
+03/12/2025;Churro simple;37;900;Efectivo;Mostrador
+03/12/2025;Churro simple;40;900;Tarjeta de débito;Mostrador
+03/12/2025;Churro simple;29;900;Mercado Pago QR;Mostrador
+03/12/2025;Churro simple;20;900;PedidosYa (pago en app);PedidosYa
+03/12/2025;Churro simple;3;900;Efectivo;Delivery propio
+03/12/2025;Churro con cobertura de chocolate;15;1150;Efectivo;Mostrador
+03/12/2025;Churro con cobertura de chocolate;16;1150;Tarjeta de débito;Mostrador
+03/12/2025;Churro con cobertura de chocolate;13;1150;Mercado Pago QR;Mostrador
+03/12/2025;Churro con cobertura de chocolate;7;1150;PedidosYa (pago en app);PedidosYa
+03/12/2025;Churro con cobertura de chocolate;1;1150;Mercado Pago QR;Delivery propio
+03/12/2025;Churro relleno común;22;1200;Efectivo;Mostrador
+03/12/2025;Churro relleno común;20;1200;Tarjeta de débito;Mostrador
+03/12/2025;Churro relleno común;19;1200;Mercado Pago QR;Mostrador
+03/12/2025;Churro relleno común;11;1200;PedidosYa (pago en app);PedidosYa
+03/12/2025;Churro relleno común;4;1200;Efectivo;Delivery propio
+03/12/2025;Churro relleno especial;8;1200;Efectivo;Mostrador
+03/12/2025;Churro relleno especial;8;1200;Tarjeta de débito;Mostrador
+03/12/2025;Churro relleno especial;7;1200;Mercado Pago QR;Mostrador
+03/12/2025;Churro relleno especial;6;1200;PedidosYa (pago en app);PedidosYa
+03/12/2025;Churro relleno especial;3;1200;Efectivo;Delivery propio
+03/12/2025;Churro salado;9;1200;Efectivo;Mostrador
+03/12/2025;Churro salado;9;1200;Tarjeta de débito;Mostrador
+03/12/2025;Churro salado;7;1200;Mercado Pago QR;Mostrador
+03/12/2025;Churro salado;1;1200;PedidosYa (pago en app);PedidosYa
+03/12/2025;Churro salado;2;1200;Mercado Pago QR;Delivery propio
+03/12/2025;Café chico;10;3450;Efectivo;Mostrador
+03/12/2025;Café chico;10;3450;Tarjeta de débito;Mostrador
+03/12/2025;Café chico;8;3450;Mercado Pago QR;Mostrador
+03/12/2025;Café chico;4;3450;PedidosYa (pago en app);PedidosYa
+03/12/2025;Café chico;1;3450;Efectivo;Delivery propio
+03/12/2025;Café grande;7;3600;Efectivo;Mostrador
+03/12/2025;Café grande;8;3600;Tarjeta de débito;Mostrador
+03/12/2025;Café grande;7;3600;Mercado Pago QR;Mostrador
+03/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+03/12/2025;Coca-Cola;9;2400;Efectivo;Mostrador
+03/12/2025;Coca-Cola;8;2400;Tarjeta de débito;Mostrador
+03/12/2025;Coca-Cola;6;2400;Mercado Pago QR;Mostrador
+03/12/2025;Coca-Cola;3;2400;PedidosYa (pago en app);PedidosYa
+03/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+03/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+03/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+03/12/2025;Coca-Cola Zero;1;2400;PedidosYa (pago en app);PedidosYa
+03/12/2025;Coca-Cola Zero;1;2400;Mercado Pago QR;Delivery propio
+03/12/2025;Fanta;1;2400;Efectivo;Mostrador
+03/12/2025;Fanta;1;2400;Tarjeta de débito;Mostrador
+03/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+03/12/2025;Sprite;4;2400;Efectivo;Mostrador
+03/12/2025;Sprite;4;2400;Tarjeta de débito;Mostrador
+03/12/2025;Sprite;4;2400;Mercado Pago QR;Mostrador
+03/12/2025;Sprite;1;2400;PedidosYa (pago en app);PedidosYa
+03/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+03/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+03/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+03/12/2025;Agua con gas;3;1950;Tarjeta de débito;Mostrador
+03/12/2025;Agua con gas;2;1950;Mercado Pago QR;Mostrador
+03/12/2025;Agua sin gas;2;1950;Efectivo;Mostrador
+03/12/2025;Agua sin gas;3;1950;Tarjeta de débito;Mostrador
+03/12/2025;Agua sin gas;2;1950;Mercado Pago QR;Mostrador
+03/12/2025;Agua sin gas;2;1950;Efectivo;Delivery propio
+04/12/2025;Churro simple;45;900;Efectivo;Mostrador
+04/12/2025;Churro simple;38;900;Tarjeta de débito;Mostrador
+04/12/2025;Churro simple;37;900;Mercado Pago QR;Mostrador
+04/12/2025;Churro simple;22;900;PedidosYa (pago en app);PedidosYa
+04/12/2025;Churro simple;6;900;Efectivo;Delivery propio
+04/12/2025;Churro con cobertura de chocolate;19;1150;Efectivo;Mostrador
+04/12/2025;Churro con cobertura de chocolate;21;1150;Tarjeta de débito;Mostrador
+04/12/2025;Churro con cobertura de chocolate;16;1150;Mercado Pago QR;Mostrador
+04/12/2025;Churro con cobertura de chocolate;13;1150;PedidosYa (pago en app);PedidosYa
+04/12/2025;Churro con cobertura de chocolate;2;1150;Efectivo;Delivery propio
+04/12/2025;Churro relleno común;26;1200;Efectivo;Mostrador
+04/12/2025;Churro relleno común;30;1200;Tarjeta de débito;Mostrador
+04/12/2025;Churro relleno común;25;1200;Mercado Pago QR;Mostrador
+04/12/2025;Churro relleno común;9;1200;PedidosYa (pago en app);PedidosYa
+04/12/2025;Churro relleno común;8;1200;Mercado Pago QR;Delivery propio
+04/12/2025;Churro relleno especial;8;1200;Efectivo;Mostrador
+04/12/2025;Churro relleno especial;10;1200;Tarjeta de débito;Mostrador
+04/12/2025;Churro relleno especial;8;1200;Mercado Pago QR;Mostrador
+04/12/2025;Churro relleno especial;7;1200;PedidosYa (pago en app);PedidosYa
+04/12/2025;Churro relleno especial;4;1200;Mercado Pago QR;Delivery propio
+04/12/2025;Churro salado;7;1200;Efectivo;Mostrador
+04/12/2025;Churro salado;7;1200;Tarjeta de débito;Mostrador
+04/12/2025;Churro salado;6;1200;Mercado Pago QR;Mostrador
+04/12/2025;Churro salado;6;1200;PedidosYa (pago en app);PedidosYa
+04/12/2025;Café chico;13;3450;Efectivo;Mostrador
+04/12/2025;Café chico;11;3450;Tarjeta de débito;Mostrador
+04/12/2025;Café chico;11;3450;Mercado Pago QR;Mostrador
+04/12/2025;Café chico;7;3450;PedidosYa (pago en app);PedidosYa
+04/12/2025;Café chico;1;3450;Efectivo;Delivery propio
+04/12/2025;Café grande;6;3600;Efectivo;Mostrador
+04/12/2025;Café grande;6;3600;Tarjeta de débito;Mostrador
+04/12/2025;Café grande;6;3600;Mercado Pago QR;Mostrador
+04/12/2025;Café grande;5;3600;PedidosYa (pago en app);PedidosYa
+04/12/2025;Café grande;2;3600;Mercado Pago QR;Delivery propio
+04/12/2025;Coca-Cola;11;2400;Efectivo;Mostrador
+04/12/2025;Coca-Cola;10;2400;Tarjeta de débito;Mostrador
+04/12/2025;Coca-Cola;7;2400;Mercado Pago QR;Mostrador
+04/12/2025;Coca-Cola;5;2400;PedidosYa (pago en app);PedidosYa
+04/12/2025;Coca-Cola;4;2400;Efectivo;Delivery propio
+04/12/2025;Coca-Cola Zero;3;2400;Efectivo;Mostrador
+04/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+04/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+04/12/2025;Coca-Cola Zero;1;2400;Efectivo;Delivery propio
+04/12/2025;Fanta;4;2400;Efectivo;Mostrador
+04/12/2025;Fanta;3;2400;Tarjeta de débito;Mostrador
+04/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+04/12/2025;Fanta;2;2400;PedidosYa (pago en app);PedidosYa
+04/12/2025;Sprite;4;2400;Efectivo;Mostrador
+04/12/2025;Sprite;4;2400;Tarjeta de débito;Mostrador
+04/12/2025;Sprite;2;2400;Mercado Pago QR;Mostrador
+04/12/2025;Sprite;3;2400;PedidosYa (pago en app);PedidosYa
+04/12/2025;Sprite;1;2400;Efectivo;Delivery propio
+04/12/2025;Sprite Zero;2;2400;Efectivo;Mostrador
+04/12/2025;Sprite Zero;2;2400;Tarjeta de débito;Mostrador
+04/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+04/12/2025;Sprite Zero;2;2400;PedidosYa (pago en app);PedidosYa
+04/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Delivery propio
+04/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+04/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+04/12/2025;Agua con gas;2;1950;Mercado Pago QR;Mostrador
+04/12/2025;Agua con gas;3;1950;PedidosYa (pago en app);PedidosYa
+04/12/2025;Agua sin gas;7;1950;Efectivo;Mostrador
+04/12/2025;Agua sin gas;7;1950;Tarjeta de débito;Mostrador
+04/12/2025;Agua sin gas;6;1950;Mercado Pago QR;Mostrador
+04/12/2025;Agua sin gas;4;1950;PedidosYa (pago en app);PedidosYa
+05/12/2025;Churro simple;45;900;Efectivo;Mostrador
+05/12/2025;Churro simple;46;900;Tarjeta de débito;Mostrador
+05/12/2025;Churro simple;36;900;Mercado Pago QR;Mostrador
+05/12/2025;Churro simple;30;900;PedidosYa (pago en app);PedidosYa
+05/12/2025;Churro simple;7;900;Efectivo;Delivery propio
+05/12/2025;Churro con cobertura de chocolate;19;1150;Efectivo;Mostrador
+05/12/2025;Churro con cobertura de chocolate;21;1150;Tarjeta de débito;Mostrador
+05/12/2025;Churro con cobertura de chocolate;19;1150;Mercado Pago QR;Mostrador
+05/12/2025;Churro con cobertura de chocolate;9;1150;PedidosYa (pago en app);PedidosYa
+05/12/2025;Churro con cobertura de chocolate;3;1150;Efectivo;Delivery propio
+05/12/2025;Churro relleno común;29;1200;Efectivo;Mostrador
+31/13/2025;Café chico;2;3600;Tarjeta de débito;Mostrador
+05/12/2025;Churro relleno común;35;1200;Tarjeta de débito;Mostrador
+05/12/2025;Churro relleno común;24;1200;Mercado Pago QR;Mostrador
+05/12/2025;Churro relleno común;11;1200;PedidosYa (pago en app);PedidosYa
+05/12/2025;Churro relleno común;6;1200;Efectivo;Delivery propio
+05/12/2025;Churro relleno especial;9;1200;Efectivo;Mostrador
+05/12/2025;Churro relleno especial;10;1200;Tarjeta de débito;Mostrador
+05/12/2025;Churro relleno especial;9;1200;Mercado Pago QR;Mostrador
+05/12/2025;Churro relleno especial;7;1200;PedidosYa (pago en app);PedidosYa
+05/12/2025;Churro relleno especial;3;1200;Mercado Pago QR;Delivery propio
+05/12/2025;Churro salado;6;1200;Efectivo;Mostrador
+05/12/2025;Churro salado;6;1200;Tarjeta de débito;Mostrador
+05/12/2025;Churro salado;6;1200;Mercado Pago QR;Mostrador
+05/12/2025;Churro salado;10;1200;PedidosYa (pago en app);PedidosYa
+05/12/2025;Café chico;13;3450;Efectivo;Mostrador
+05/12/2025;Café chico;15;3450;Tarjeta de débito;Mostrador
+05/12/2025;Café chico;12;3450;Mercado Pago QR;Mostrador
+05/12/2025;Café chico;4;3450;PedidosYa (pago en app);PedidosYa
+05/12/2025;Café chico;3;3450;Mercado Pago QR;Delivery propio
+05/12/2025;Café grande;8;3600;Efectivo;Mostrador
+05/12/2025;Café grande;6;3600;Tarjeta de débito;Mostrador
+05/12/2025;Café grande;6;3600;Mercado Pago QR;Mostrador
+05/12/2025;Café grande;3;3600;PedidosYa (pago en app);PedidosYa
+05/12/2025;Café grande;1;3600;Efectivo;Delivery propio
+05/12/2025;Coca-Cola;6;2400;Efectivo;Mostrador
+05/12/2025;Coca-Cola;7;2400;Tarjeta de débito;Mostrador
+05/12/2025;Coca-Cola;6;2400;Mercado Pago QR;Mostrador
+05/12/2025;Coca-Cola;9;2400;PedidosYa (pago en app);PedidosYa
+05/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+05/12/2025;Coca-Cola Zero;5;2400;Tarjeta de débito;Mostrador
+05/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+05/12/2025;Coca-Cola Zero;3;2400;PedidosYa (pago en app);PedidosYa
+05/12/2025;Coca-Cola Zero;1;2400;Mercado Pago QR;Delivery propio
+05/12/2025;Fanta;2;2400;Efectivo;Mostrador
+05/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+05/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+05/12/2025;Fanta;2;2400;PedidosYa (pago en app);PedidosYa
+05/12/2025;Fanta;2;2400;Efectivo;Delivery propio
+05/12/2025;Sprite;4;2400;Efectivo;Mostrador
+05/12/2025;Sprite;5;2400;Tarjeta de débito;Mostrador
+05/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+05/12/2025;Sprite;1;2400;PedidosYa (pago en app);PedidosYa
+05/12/2025;Sprite;2;2400;Mercado Pago QR;Delivery propio
+05/12/2025;Sprite Zero;3;2400;Efectivo;Mostrador
+05/12/2025;Sprite Zero;3;2400;Tarjeta de débito;Mostrador
+05/12/2025;Sprite Zero;3;2400;Mercado Pago QR;Mostrador
+05/12/2025;Agua con gas;4;1950;Efectivo;Mostrador
+05/12/2025;Agua con gas;4;1950;Tarjeta de débito;Mostrador
+05/12/2025;Agua con gas;3;1950;Mercado Pago QR;Mostrador
+05/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+05/12/2025;Agua con gas;1;1950;Efectivo;Delivery propio
+05/12/2025;Agua sin gas;5;1950;Efectivo;Mostrador
+05/12/2025;Agua sin gas;5;1950;Tarjeta de débito;Mostrador
+05/12/2025;Agua sin gas;5;1950;Mercado Pago QR;Mostrador
+05/12/2025;Agua sin gas;5;1950;PedidosYa (pago en app);PedidosYa
+06/12/2025;Churro simple;66;900;Efectivo;Mostrador
+06/12/2025;Churro simple;59;900;Tarjeta de débito;Mostrador
+06/12/2025;Churro simple;56;900;Mercado Pago QR;Mostrador
+06/12/2025;Churro simple;33;900;PedidosYa (pago en app);PedidosYa
+06/12/2025;Churro simple;7;900;Efectivo;Delivery propio
+06/12/2025;Churro con cobertura de chocolate;22;1150;Efectivo;Mostrador
+06/12/2025;Churro con cobertura de chocolate;23;1150;Tarjeta de débito;Mostrador
+06/12/2025;Churro con cobertura de chocolate;18;1150;Mercado Pago QR;Mostrador
+06/12/2025;Churro con cobertura de chocolate;16;1150;PedidosYa (pago en app);PedidosYa
+06/12/2025;Churro con cobertura de chocolate;6;1150;Mercado Pago QR;Delivery propio
+06/12/2025;Churro relleno común;44;1200;Efectivo;Mostrador
+06/12/2025;Churro relleno común;36;1200;Tarjeta de débito;Mostrador
+06/12/2025;Churro relleno común;33;1200;Mercado Pago QR;Mostrador
+06/12/2025;Churro relleno común;17;1200;PedidosYa (pago en app);PedidosYa
+06/12/2025;Churro relleno común;10;1200;Mercado Pago QR;Delivery propio
+06/12/2025;Churro relleno especial;15;1200;Efectivo;Mostrador
+06/12/2025;Churro relleno especial;15;1200;Tarjeta de débito;Mostrador
+06/12/2025;Churro relleno especial;14;1200;Mercado Pago QR;Mostrador
+06/12/2025;Churro relleno especial;4;1200;PedidosYa (pago en app);PedidosYa
+06/12/2025;Churro relleno especial;4;1200;Mercado Pago QR;Delivery propio
+06/12/2025;Churro salado;11;1200;Efectivo;Mostrador
+06/12/2025;Churro salado;13;1200;Tarjeta de débito;Mostrador
+06/12/2025;Churro salado;9;1200;Mercado Pago QR;Mostrador
+06/12/2025;Churro salado;5;1200;PedidosYa (pago en app);PedidosYa
+06/12/2025;Churro salado;1;1200;Mercado Pago QR;Delivery propio
+06/12/2025;Café chico;13;3450;Efectivo;Mostrador
+06/12/2025;Café chico;14;3450;Tarjeta de débito;Mostrador
+06/12/2025;Café chico;13;3450;Mercado Pago QR;Mostrador
+06/12/2025;Café chico;13;3450;PedidosYa (pago en app);PedidosYa
+06/12/2025;Café chico;4;3450;Mercado Pago QR;Delivery propio
+06/12/2025;Café grande;13;3600;Efectivo;Mostrador
+06/12/2025;Café grande;13;3600;Tarjeta de débito;Mostrador
+06/12/2025;Café grande;10;3600;Mercado Pago QR;Mostrador
+06/12/2025;Café grande;2;3600;PedidosYa (pago en app);PedidosYa
+06/12/2025;Coca-Cola;13;2400;Efectivo;Mostrador
+06/12/2025;Coca-Cola;12;2400;Tarjeta de débito;Mostrador
+06/12/2025;Coca-Cola;12;2400;Mercado Pago QR;Mostrador
+06/12/2025;Coca-Cola;6;2400;PedidosYa (pago en app);PedidosYa
+06/12/2025;Coca-Cola;4;2400;Efectivo;Delivery propio
+06/12/2025;Coca-Cola Zero;7;2400;Efectivo;Mostrador
+06/12/2025;Coca-Cola Zero;7;2400;Tarjeta de débito;Mostrador
+06/12/2025;Coca-Cola Zero;5;2400;Mercado Pago QR;Mostrador
+06/12/2025;Coca-Cola Zero;3;2400;PedidosYa (pago en app);PedidosYa
+06/12/2025;Coca-Cola Zero;2;2400;Mercado Pago QR;Delivery propio
+06/12/2025;Fanta;5;2400;Efectivo;Mostrador
+06/12/2025;Fanta;5;2400;Tarjeta de débito;Mostrador
+06/12/2025;Fanta;5;2400;Mercado Pago QR;Mostrador
+06/12/2025;Fanta;2;2400;PedidosYa (pago en app);PedidosYa
+06/12/2025;Fanta;1;2400;Mercado Pago QR;Delivery propio
+06/12/2025;Sprite;3;2400;Efectivo;Mostrador
+06/12/2025;Sprite;4;2400;Tarjeta de débito;Mostrador
+06/12/2025;Sprite;4;2400;Mercado Pago QR;Mostrador
+06/12/2025;Sprite;2;2400;PedidosYa (pago en app);PedidosYa
+06/12/2025;Sprite Zero;2;2400;Efectivo;Mostrador
+06/12/2025;Sprite Zero;2;2400;Tarjeta de débito;Mostrador
+06/12/2025;Sprite Zero;2;2400;Mercado Pago QR;Mostrador
+06/12/2025;Sprite Zero;1;2400;Efectivo;Delivery propio
+06/12/2025;Agua con gas;4;1950;Efectivo;Mostrador
+06/12/2025;Agua con gas;3;1950;Tarjeta de débito;Mostrador
+06/12/2025;Agua con gas;3;1950;Mercado Pago QR;Mostrador
+06/12/2025;Agua con gas;2;1950;PedidosYa (pago en app);PedidosYa
+06/12/2025;Agua con gas;2;1950;Mercado Pago QR;Delivery propio
+06/12/2025;Agua sin gas;7;1950;Efectivo;Mostrador
+06/12/2025;Agua sin gas;9;1950;Tarjeta de débito;Mostrador
+06/12/2025;Agua sin gas;7;1950;Mercado Pago QR;Mostrador
+06/12/2025;Agua sin gas;5;1950;PedidosYa (pago en app);PedidosYa
+06/12/2025;Agua sin gas;4;1950;Efectivo;Delivery propio
+07/12/2025;Churro simple;54;900;Efectivo;Mostrador
+07/12/2025;Churro simple;63;900;Tarjeta de débito;Mostrador
+07/12/2025;Churro simple;46;900;Mercado Pago QR;Mostrador
+07/12/2025;Churro simple;23;900;PedidosYa (pago en app);PedidosYa
+07/12/2025;Churro simple;10;900;Efectivo;Delivery propio
+07/12/2025;Churro con cobertura de chocolate;31;1150;Efectivo;Mostrador
+07/12/2025;Churro con cobertura de chocolate;28;1150;Tarjeta de débito;Mostrador
+07/12/2025;Churro con cobertura de chocolate;28;1150;Mercado Pago QR;Mostrador
+07/12/2025;Churro con cobertura de chocolate;9;1150;PedidosYa (pago en app);PedidosYa
+07/12/2025;Churro con cobertura de chocolate;2;1150;Mercado Pago QR;Delivery propio
+07/12/2025;Churro relleno común;34;1200;Efectivo;Mostrador
+07/12/2025;Churro relleno común;43;1200;Tarjeta de débito;Mostrador
+07/12/2025;Churro relleno común;34;1200;Mercado Pago QR;Mostrador
+07/12/2025;Churro relleno común;17;1200;PedidosYa (pago en app);PedidosYa
+07/12/2025;Churro relleno común;9;1200;Mercado Pago QR;Delivery propio
+07/12/2025;Churro relleno especial;15;1200;Efectivo;Mostrador
+07/12/2025;Churro relleno especial;17;1200;Tarjeta de débito;Mostrador
+07/12/2025;Churro relleno especial;14;1200;Mercado Pago QR;Mostrador
+24/12/2025;Coca-Cola;0;2450;Efectivo;Mostrador
+07/12/2025;Churro relleno especial;8;1200;PedidosYa (pago en app);PedidosYa
+07/12/2025;Churro relleno especial;2;1200;Efectivo;Delivery propio
+07/12/2025;Churro salado;12;1200;Efectivo;Mostrador
+07/12/2025;Churro salado;10;1200;Tarjeta de débito;Mostrador
+07/12/2025;Churro salado;8;1200;Mercado Pago QR;Mostrador
+07/12/2025;Churro salado;8;1200;PedidosYa (pago en app);PedidosYa
+07/12/2025;Churro salado;1;1200;Mercado Pago QR;Delivery propio
+07/12/2025;Café chico;14;3450;Efectivo;Mostrador
+07/12/2025;Café chico;19;3450;Tarjeta de débito;Mostrador
+07/12/2025;Café chico;12;3450;Mercado Pago QR;Mostrador
+07/12/2025;Café chico;9;3450;PedidosYa (pago en app);PedidosYa
+07/12/2025;Café chico;4;3450;Mercado Pago QR;Delivery propio
+07/12/2025;Café grande;10;3600;Efectivo;Mostrador
+07/12/2025;Café grande;12;3600;Tarjeta de débito;Mostrador
+07/12/2025;Café grande;9;3600;Mercado Pago QR;Mostrador
+07/12/2025;Café grande;5;3600;PedidosYa (pago en app);PedidosYa
+07/12/2025;Coca-Cola;12;2400;Efectivo;Mostrador
+07/12/2025;Coca-Cola;14;2400;Tarjeta de débito;Mostrador
+07/12/2025;Coca-Cola;9;2400;Mercado Pago QR;Mostrador
+07/12/2025;Coca-Cola;8;2400;PedidosYa (pago en app);PedidosYa
+07/12/2025;Coca-Cola;2;2400;Efectivo;Delivery propio
+07/12/2025;Coca-Cola Zero;5;2400;Efectivo;Mostrador
+07/12/2025;Coca-Cola Zero;5;2400;Tarjeta de débito;Mostrador
+07/12/2025;Coca-Cola Zero;5;2400;Mercado Pago QR;Mostrador
+07/12/2025;Coca-Cola Zero;2;2400;PedidosYa (pago en app);PedidosYa
+07/12/2025;Fanta;4;2400;Efectivo;Mostrador
+07/12/2025;Fanta;6;2400;Tarjeta de débito;Mostrador
+07/12/2025;Fanta;4;2400;Mercado Pago QR;Mostrador
+07/12/2025;Fanta;2;2400;PedidosYa (pago en app);PedidosYa
+07/12/2025;Fanta;1;2400;Mercado Pago QR;Delivery propio
+07/12/2025;Sprite;7;2400;Efectivo;Mostrador
+07/12/2025;Sprite;6;2400;Tarjeta de débito;Mostrador
+07/12/2025;Sprite;4;2400;Mercado Pago QR;Mostrador
+07/12/2025;Sprite;1;2400;PedidosYa (pago en app);PedidosYa
+07/12/2025;Sprite Zero;2;2400;Efectivo;Mostrador
+07/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+07/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+07/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Delivery propio
+07/12/2025;Agua con gas;5;1950;Efectivo;Mostrador
+07/12/2025;Agua con gas;5;1950;Tarjeta de débito;Mostrador
+07/12/2025;Agua con gas;4;1950;Mercado Pago QR;Mostrador
+07/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+07/12/2025;Agua con gas;2;1950;Efectivo;Delivery propio
+07/12/2025;Agua sin gas;6;1950;Efectivo;Mostrador
+07/12/2025;Agua sin gas;9;1950;Tarjeta de débito;Mostrador
+07/12/2025;Agua sin gas;6;1950;Mercado Pago QR;Mostrador
+07/12/2025;Agua sin gas;2;1950;PedidosYa (pago en app);PedidosYa
+07/12/2025;Agua sin gas;1;1950;Efectivo;Delivery propio
+08/12/2025;Churro simple;21;900;Efectivo;Mostrador
+08/12/2025;Churro simple;25;900;Tarjeta de débito;Mostrador
+08/12/2025;Churro simple;17;900;Mercado Pago QR;Mostrador
+08/12/2025;Churro simple;18;900;PedidosYa (pago en app);PedidosYa
+08/12/2025;Churro simple;8;900;Mercado Pago QR;Delivery propio
+08/12/2025;Churro con cobertura de chocolate;10;1150;Efectivo;Mostrador
+08/12/2025;Churro con cobertura de chocolate;12;1150;Tarjeta de débito;Mostrador
+08/12/2025;Churro con cobertura de chocolate;11;1150;Mercado Pago QR;Mostrador
+08/12/2025;Churro con cobertura de chocolate;4;1150;PedidosYa (pago en app);PedidosYa
+08/12/2025;Churro con cobertura de chocolate;2;1150;Mercado Pago QR;Delivery propio
+08/12/2025;Churro relleno común;16;1200;Efectivo;Mostrador
+08/12/2025;Churro relleno común;16;1200;Tarjeta de débito;Mostrador
+08/12/2025;Churro relleno común;11;1200;Mercado Pago QR;Mostrador
+08/12/2025;Churro relleno común;5;1200;PedidosYa (pago en app);PedidosYa
+08/12/2025;Churro relleno especial;5;1200;Efectivo;Mostrador
+08/12/2025;Churro relleno especial;6;1200;Tarjeta de débito;Mostrador
+08/12/2025;Churro relleno especial;5;1200;Mercado Pago QR;Mostrador
+08/12/2025;Churro relleno especial;4;1200;PedidosYa (pago en app);PedidosYa
+08/12/2025;Churro relleno especial;2;1200;Mercado Pago QR;Delivery propio
+08/12/2025;Churro salado;5;1200;Efectivo;Mostrador
+08/12/2025;Churro salado;7;1200;Tarjeta de débito;Mostrador
+08/12/2025;Churro salado;5;1200;Mercado Pago QR;Mostrador
+08/12/2025;Churro salado;1;1200;PedidosYa (pago en app);PedidosYa
+08/12/2025;Churro salado;1;1200;Mercado Pago QR;Delivery propio
+08/12/2025;Café chico;9;3450;Efectivo;Mostrador
+08/12/2025;Café chico;8;3450;Tarjeta de débito;Mostrador
+08/12/2025;Café chico;6;3450;Mercado Pago QR;Mostrador
+08/12/2025;Café chico;2;3450;PedidosYa (pago en app);PedidosYa
+08/12/2025;Café grande;4;3600;Efectivo;Mostrador
+08/12/2025;Café grande;5;3600;Tarjeta de débito;Mostrador
+08/12/2025;Café grande;4;3600;Mercado Pago QR;Mostrador
+08/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+08/12/2025;Café grande;2;3600;Efectivo;Delivery propio
+08/12/2025;Coca-Cola;3;2400;Efectivo;Mostrador
+08/12/2025;Coca-Cola;4;2400;Tarjeta de débito;Mostrador
+08/12/2025;Coca-Cola;2;2400;Mercado Pago QR;Mostrador
+08/12/2025;Coca-Cola;4;2400;PedidosYa (pago en app);PedidosYa
+08/12/2025;Coca-Cola;4;2400;Efectivo;Delivery propio
+08/12/2025;Coca-Cola Zero;3;2400;Efectivo;Mostrador
+08/12/2025;Coca-Cola Zero;3;2400;Tarjeta de débito;Mostrador
+08/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+08/12/2025;Fanta;2;2400;Efectivo;Mostrador
+08/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+08/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+08/12/2025;Fanta;1;2400;Mercado Pago QR;Delivery propio
+08/12/2025;Sprite;2;2400;Efectivo;Mostrador
+08/12/2025;Sprite;2;2400;Tarjeta de débito;Mostrador
+08/12/2025;Sprite;1;2400;Mercado Pago QR;Mostrador
+08/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+08/12/2025;Agua con gas;1;1950;Efectivo;Mostrador
+08/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+08/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+08/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+08/12/2025;Agua sin gas;3;1950;Efectivo;Mostrador
+08/12/2025;Agua sin gas;4;1950;Tarjeta de débito;Mostrador
+08/12/2025;Agua sin gas;3;1950;Mercado Pago QR;Mostrador
+08/12/2025;Agua sin gas;2;1950;PedidosYa (pago en app);PedidosYa
+09/12/2025;Churro simple;45;900;Efectivo;Mostrador
+09/12/2025;Churro simple;41;900;Tarjeta de débito;Mostrador
+09/12/2025;Churro simple;28;900;Mercado Pago QR;Mostrador
+09/12/2025;Churro simple;17;900;PedidosYa (pago en app);PedidosYa
+09/12/2025;Churro simple;5;900;Efectivo;Delivery propio
+09/12/2025;Churro con cobertura de chocolate;16;1150;Efectivo;Mostrador
+09/12/2025;Churro con cobertura de chocolate;16;1150;Tarjeta de débito;Mostrador
+09/12/2025;Churro con cobertura de chocolate;12;1150;Mercado Pago QR;Mostrador
+09/12/2025;Churro con cobertura de chocolate;6;1150;PedidosYa (pago en app);PedidosYa
+09/12/2025;Churro con cobertura de chocolate;4;1150;Efectivo;Delivery propio
+09/12/2025;Churro relleno común;23;1200;Efectivo;Mostrador
+09/12/2025;Churro relleno común;27;1200;Tarjeta de débito;Mostrador
+09/12/2025;Churro relleno común;23;1200;Mercado Pago QR;Mostrador
+09/12/2025;Churro relleno común;14;1200;PedidosYa (pago en app);PedidosYa
+09/12/2025;Churro relleno común;3;1200;Efectivo;Delivery propio
+09/12/2025;Churro relleno especial;8;1200;Efectivo;Mostrador
+09/12/2025;Churro relleno especial;10;1200;Tarjeta de débito;Mostrador
+09/12/2025;Churro relleno especial;7;1200;Mercado Pago QR;Mostrador
+09/12/2025;Churro relleno especial;9;1200;PedidosYa (pago en app);PedidosYa
+09/12/2025;Churro relleno especial;1;1200;Mercado Pago QR;Delivery propio
+09/12/2025;Churro salado;6;1200;Efectivo;Mostrador
+09/12/2025;Churro salado;6;1200;Tarjeta de débito;Mostrador
+09/12/2025;Churro salado;6;1200;Mercado Pago QR;Mostrador
+09/12/2025;Churro salado;4;1200;PedidosYa (pago en app);PedidosYa
+09/12/2025;Café chico;9;3450;Efectivo;Mostrador
+09/12/2025;Café chico;8;3450;Tarjeta de débito;Mostrador
+09/12/2025;Café chico;6;3450;Mercado Pago QR;Mostrador
+09/12/2025;Café chico;5;3450;PedidosYa (pago en app);PedidosYa
+09/12/2025;Café chico;5;3450;Mercado Pago QR;Delivery propio
+09/12/2025;Café grande;4;3600;Efectivo;Mostrador
+09/12/2025;Café grande;5;3600;Tarjeta de débito;Mostrador
+09/12/2025;Café grande;3;3600;Mercado Pago QR;Mostrador
+09/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+09/12/2025;Coca-Cola;10;2400;Efectivo;Mostrador
+09/12/2025;Coca-Cola;10;2400;Tarjeta de débito;Mostrador
+09/12/2025;Coca-Cola;10;2400;Mercado Pago QR;Mostrador
+09/12/2025;Coca-Cola;3;2400;PedidosYa (pago en app);PedidosYa
+09/12/2025;Coca-Cola Zero;3;2400;Efectivo;Mostrador
+09/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+09/12/2025;Coca-Cola Zero;2;2400;Mercado Pago QR;Mostrador
+09/12/2025;Coca-Cola Zero;3;2400;PedidosYa (pago en app);PedidosYa
+09/12/2025;Fanta;2;2400;Efectivo;Mostrador
+09/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+09/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+09/12/2025;Fanta;3;2400;PedidosYa (pago en app);PedidosYa
+09/12/2025;Sprite;3;2400;Efectivo;Mostrador
+09/12/2025;Sprite;3;2400;Tarjeta de débito;Mostrador
+09/12/2025;Sprite;2;2400;Mercado Pago QR;Mostrador
+09/12/2025;Sprite;4;2400;PedidosYa (pago en app);PedidosYa
+09/12/2025;Sprite;1;2400;Mercado Pago QR;Delivery propio
+09/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+09/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+09/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+09/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+09/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+09/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+09/12/2025;Agua con gas;2;1950;Mercado Pago QR;Mostrador
+09/12/2025;Agua sin gas;6;1950;Efectivo;Mostrador
+09/12/2025;Agua sin gas;5;1950;Tarjeta de débito;Mostrador
+09/12/2025;Agua sin gas;4;1950;Mercado Pago QR;Mostrador
+09/12/2025;Agua sin gas;2;1950;PedidosYa (pago en app);PedidosYa
+10/12/2025;Churro simple;44;900;Efectivo;Mostrador
+10/12/2025;Churro simple;37;900;Tarjeta de débito;Mostrador
+10/12/2025;Churro simple;33;900;Mercado Pago QR;Mostrador
+10/12/2025;Churro simple;13;900;PedidosYa (pago en app);PedidosYa
+10/12/2025;Churro simple;5;900;Efectivo;Delivery propio
+10/12/2025;Churro con cobertura de chocolate;16;1150;Efectivo;Mostrador
+10/12/2025;Churro con cobertura de chocolate;19;1150;Tarjeta de débito;Mostrador
+10/12/2025;Churro con cobertura de chocolate;17;1150;Mercado Pago QR;Mostrador
+10/12/2025;Churro con cobertura de chocolate;9;1150;PedidosYa (pago en app);PedidosYa
+10/12/2025;Churro con cobertura de chocolate;2;1150;Efectivo;Delivery propio
+10/12/2025;Churro relleno común;28;1200;Efectivo;Mostrador
+10/12/2025;Churro relleno común;23;1200;Tarjeta de débito;Mostrador
+10/12/2025;Churro relleno común;23;1200;Mercado Pago QR;Mostrador
+10/12/2025;Churro relleno común;20;1200;PedidosYa (pago en app);PedidosYa
+10/12/2025;Churro relleno común;3;1200;Mercado Pago QR;Delivery propio
+10/12/2025;Churro relleno especial;12;1200;Efectivo;Mostrador
+10/12/2025;Churro relleno especial;11;1200;Tarjeta de débito;Mostrador
+10/12/2025;Churro relleno especial;8;1200;Mercado Pago QR;Mostrador
+10/12/2025;Churro relleno especial;4;1200;PedidosYa (pago en app);PedidosYa
+10/12/2025;Churro relleno especial;4;1200;Mercado Pago QR;Delivery propio
+10/12/2025;Churro salado;4;1200;Efectivo;Mostrador
+10/12/2025;Churro salado;5;1200;Tarjeta de débito;Mostrador
+10/12/2025;Churro salado;4;1200;Mercado Pago QR;Mostrador
+10/12/2025;Churro salado;4;1200;PedidosYa (pago en app);PedidosYa
+10/12/2025;Churro salado;1;1200;Mercado Pago QR;Delivery propio
+10/12/2025;Café chico;10;3450;Efectivo;Mostrador
+10/12/2025;Café chico;8;3450;Tarjeta de débito;Mostrador
+10/12/2025;Café chico;7;3450;Mercado Pago QR;Mostrador
+10/12/2025;Café chico;5;3450;PedidosYa (pago en app);PedidosYa
+10/12/2025;Café chico;4;3450;Efectivo;Delivery propio
+10/12/2025;Café grande;7;3600;Efectivo;Mostrador
+10/12/2025;Café grande;6;3600;Tarjeta de débito;Mostrador
+10/12/2025;Café grande;6;3600;Mercado Pago QR;Mostrador
+10/12/2025;Café grande;5;3600;PedidosYa (pago en app);PedidosYa
+10/12/2025;Café grande;2;3600;Efectivo;Delivery propio
+10/12/2025;Coca-Cola;7;2400;Efectivo;Mostrador
+10/12/2025;Coca-Cola;9;2400;Tarjeta de débito;Mostrador
+10/12/2025;Coca-Cola;6;2400;Mercado Pago QR;Mostrador
+10/12/2025;Coca-Cola;2;2400;Mercado Pago QR;Delivery propio
+10/12/2025;Coca-Cola Zero;3;2400;Efectivo;Mostrador
+10/12/2025;Coca-Cola Zero;3;2400;Tarjeta de débito;Mostrador
+10/12/2025;Coca-Cola Zero;2;2400;Mercado Pago QR;Mostrador
+10/12/2025;Coca-Cola Zero;1;2400;PedidosYa (pago en app);PedidosYa
+10/12/2025;Fanta;2;2400;Efectivo;Mostrador
+10/12/2025;Fanta;3;2400;Tarjeta de débito;Mostrador
+10/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+10/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+10/12/2025;Sprite;1;2400;Efectivo;Mostrador
+10/12/2025;Sprite;2;2400;Tarjeta de débito;Mostrador
+10/12/2025;Sprite;1;2400;Mercado Pago QR;Mostrador
+10/12/2025;Sprite;2;2400;PedidosYa (pago en app);PedidosYa
+10/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+10/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+10/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+10/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+10/12/2025;Agua con gas;3;1950;Efectivo;Mostrador
+10/12/2025;Agua con gas;3;1950;Tarjeta de débito;Mostrador
+10/12/2025;Agua con gas;2;1950;Mercado Pago QR;Mostrador
+10/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+10/12/2025;Agua sin gas;4;1950;Efectivo;Mostrador
+10/12/2025;Agua sin gas;3;1950;Tarjeta de débito;Mostrador
+10/12/2025;Agua sin gas;3;1950;Mercado Pago QR;Mostrador
+11/12/2025;Churro simple;46;900;Efectivo;Mostrador
+11/12/2025;Churro simple;58;900;Tarjeta de débito;Mostrador
+11/12/2025;Churro simple;40;900;Mercado Pago QR;Mostrador
+11/12/2025;Churro simple;20;900;PedidosYa (pago en app);PedidosYa
+11/12/2025;Churro simple;4;900;Mercado Pago QR;Delivery propio
+11/12/2025;Churro con cobertura de chocolate;19;1150;Efectivo;Mostrador
+11/12/2025;Churro con cobertura de chocolate;19;1150;Tarjeta de débito;Mostrador
+11/12/2025;Churro con cobertura de chocolate;18;1150;Mercado Pago QR;Mostrador
+11/12/2025;Churro con cobertura de chocolate;7;1150;PedidosYa (pago en app);PedidosYa
+11/12/2025;Churro con cobertura de chocolate;3;1150;Efectivo;Delivery propio
+11/12/2025;Churro relleno común;26;1200;Efectivo;Mostrador
+11/12/2025;Churro relleno común;34;1200;Tarjeta de débito;Mostrador
+11/12/2025;Churro relleno común;23;1200;Mercado Pago QR;Mostrador
+11/12/2025;Churro relleno común;8;1200;PedidosYa (pago en app);PedidosYa
+11/12/2025;Churro relleno común;4;1200;Efectivo;Delivery propio
+11/12/2025;Churro relleno especial;11;1200;Efectivo;Mostrador
+11/12/2025;Churro relleno especial;10;1200;Tarjeta de débito;Mostrador
+11/12/2025;Churro relleno especial;8;1200;Mercado Pago QR;Mostrador
+11/12/2025;Churro relleno especial;3;1200;PedidosYa (pago en app);PedidosYa
+11/12/2025;Churro relleno especial;3;1200;Mercado Pago QR;Delivery propio
+11/12/2025;Churro salado;9;1200;Efectivo;Mostrador
+11/12/2025;Churro salado;8;1200;Tarjeta de débito;Mostrador
+11/12/2025;Churro salado;7;1200;Mercado Pago QR;Mostrador
+11/12/2025;Churro salado;4;1200;PedidosYa (pago en app);PedidosYa
+11/12/2025;Churro salado;2;1200;Mercado Pago QR;Delivery propio
+11/12/2025;Café chico;12;3450;Efectivo;Mostrador
+11/12/2025;Café chico;10;3450;Tarjeta de débito;Mostrador
+11/12/2025;Café chico;7;3450;Mercado Pago QR;Mostrador
+11/12/2025;Café chico;10;3450;PedidosYa (pago en app);PedidosYa
+11/12/2025;Café chico;6;3450;Mercado Pago QR;Delivery propio
+11/12/2025;Café grande;8;3600;Efectivo;Mostrador
+11/12/2025;Café grande;8;3600;Tarjeta de débito;Mostrador
+11/12/2025;Café grande;8;3600;Mercado Pago QR;Mostrador
+11/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+11/12/2025;Café grande;5;3600;Efectivo;Delivery propio
+11/12/2025;Coca-Cola;7;2400;Efectivo;Mostrador
+11/12/2025;Coca-Cola;9;2400;Tarjeta de débito;Mostrador
+11/12/2025;Coca-Cola;7;2400;Mercado Pago QR;Mostrador
+11/12/2025;Coca-Cola;8;2400;PedidosYa (pago en app);PedidosYa
+11/12/2025;Coca-Cola;1;2400;Mercado Pago QR;Delivery propio
+11/12/2025;Coca-Cola Zero;3;2400;Efectivo;Mostrador
+11/12/2025;Coca-Cola Zero;5;2400;Tarjeta de débito;Mostrador
+11/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+11/12/2025;Coca-Cola Zero;1;2400;PedidosYa (pago en app);PedidosYa
+11/12/2025;Fanta;3;2400;Efectivo;Mostrador
+11/12/2025;Fanta;4;2400;Tarjeta de débito;Mostrador
+11/12/2025;Fanta;3;2400;Mercado Pago QR;Mostrador
+11/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+11/12/2025;Sprite;4;2400;Efectivo;Mostrador
+11/12/2025;Sprite;4;2400;Tarjeta de débito;Mostrador
+11/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+11/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+11/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+11/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+11/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+11/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+11/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+11/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+11/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+11/12/2025;Agua sin gas;7;1950;Efectivo;Mostrador
+11/12/2025;Agua sin gas;7;1950;Tarjeta de débito;Mostrador
+11/12/2025;Agua sin gas;6;1950;Mercado Pago QR;Mostrador
+11/12/2025;Agua sin gas;4;1950;PedidosYa (pago en app);PedidosYa
+11/12/2025;Agua sin gas;1;1950;Mercado Pago QR;Delivery propio
+12/12/2025;Churro simple;45;900;Efectivo;Mostrador
+12/12/2025;Churro simple;45;900;Tarjeta de débito;Mostrador
+12/12/2025;Churro simple;42;900;Mercado Pago QR;Mostrador
+12/12/2025;Churro simple;23;900;PedidosYa (pago en app);PedidosYa
+12/12/2025;Churro simple;8;900;Efectivo;Delivery propio
+12/12/2025;Churro con cobertura de chocolate;18;1150;Efectivo;Mostrador
+12/12/2025;Churro con cobertura de chocolate;21;1150;Tarjeta de débito;Mostrador
+12/12/2025;Churro con cobertura de chocolate;19;1150;Mercado Pago QR;Mostrador
+12/12/2025;Churro con cobertura de chocolate;11;1150;PedidosYa (pago en app);PedidosYa
+12/12/2025;Churro con cobertura de chocolate;8;1150;Mercado Pago QR;Delivery propio
+12/12/2025;Churro relleno común;27;1200;Efectivo;Mostrador
+12/12/2025;Churro relleno común;34;1200;Tarjeta de débito;Mostrador
+12/12/2025;Churro relleno común;29;1200;Mercado Pago QR;Mostrador
+12/12/2025;Churro relleno común;15;1200;PedidosYa (pago en app);PedidosYa
+12/12/2025;Churro relleno común;3;1200;Mercado Pago QR;Delivery propio
+12/12/2025;Churro relleno especial;12;1200;Efectivo;Mostrador
+12/12/2025;Churro relleno especial;15;1200;Tarjeta de débito;Mostrador
+12/12/2025;Churro relleno especial;14;1200;Mercado Pago QR;Mostrador
+12/12/2025;Churro relleno especial;2;1200;PedidosYa (pago en app);PedidosYa
+12/12/2025;Churro relleno especial;3;1200;Mercado Pago QR;Delivery propio
+12/12/2025;Churro salado;8;1200;Efectivo;Mostrador
+12/12/2025;Churro salado;7;1200;Tarjeta de débito;Mostrador
+12/12/2025;Churro salado;6;1200;Mercado Pago QR;Mostrador
+12/12/2025;Churro salado;5;1200;PedidosYa (pago en app);PedidosYa
+12/12/2025;Churro salado;2;1200;Efectivo;Delivery propio
+12/12/2025;Café chico;13;3450;Efectivo;Mostrador
+12/12/2025;Café chico;18;3450;Tarjeta de débito;Mostrador
+12/12/2025;Café chico;12;3450;Mercado Pago QR;Mostrador
+12/12/2025;Café chico;5;3450;PedidosYa (pago en app);PedidosYa
+12/12/2025;Café chico;1;3450;Efectivo;Delivery propio
+12/12/2025;Café grande;7;3600;Efectivo;Mostrador
+12/12/2025;Café grande;10;3600;Tarjeta de débito;Mostrador
+12/12/2025;Café grande;7;3600;Mercado Pago QR;Mostrador
+12/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+12/12/2025;Café grande;2;3600;Mercado Pago QR;Delivery propio
+12/12/2025;Coca-Cola;11;2400;Efectivo;Mostrador
+12/12/2025;Coca-Cola;12;2400;Tarjeta de débito;Mostrador
+12/12/2025;Coca-Cola;11;2400;Mercado Pago QR;Mostrador
+12/12/2025;Coca-Cola;7;2400;PedidosYa (pago en app);PedidosYa
+12/12/2025;Coca-Cola Zero;6;2400;Efectivo;Mostrador
+12/12/2025;Coca-Cola Zero;6;2400;Tarjeta de débito;Mostrador
+12/12/2025;Coca-Cola Zero;4;2400;Mercado Pago QR;Mostrador
+12/12/2025;Coca-Cola Zero;3;2400;PedidosYa (pago en app);PedidosYa
+12/12/2025;Coca-Cola Zero;1;2400;Mercado Pago QR;Delivery propio
+12/12/2025;Fanta;2;2400;Efectivo;Mostrador
+12/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+12/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+12/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+12/12/2025;Sprite;4;2400;Efectivo;Mostrador
+12/12/2025;Sprite;4;2400;Tarjeta de débito;Mostrador
+12/12/2025;Sprite;2;2400;Mercado Pago QR;Mostrador
+12/12/2025;Sprite;1;2400;PedidosYa (pago en app);PedidosYa
+12/12/2025;Sprite Zero;2;2400;Efectivo;Mostrador
+12/12/2025;Sprite Zero;2;2400;Tarjeta de débito;Mostrador
+12/12/2025;Sprite Zero;2;2400;Mercado Pago QR;Mostrador
+12/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+12/12/2025;Agua con gas;3;1950;Tarjeta de débito;Mostrador
+12/12/2025;Agua con gas;2;1950;Mercado Pago QR;Mostrador
+12/12/2025;Agua con gas;2;1950;PedidosYa (pago en app);PedidosYa
+12/12/2025;Agua sin gas;7;1950;Efectivo;Mostrador
+12/12/2025;Agua sin gas;8;1950;Tarjeta de débito;Mostrador
+12/12/2025;Agua sin gas;6;1950;Mercado Pago QR;Mostrador
+13/12/2025;Churro simple;69;900;Efectivo;Mostrador
+13/12/2025;Churro simple;55;900;Tarjeta de débito;Mostrador
+13/12/2025;Churro simple;53;900;Mercado Pago QR;Mostrador
+13/12/2025;Churro simple;31;900;PedidosYa (pago en app);PedidosYa
+13/12/2025;Churro simple;11;900;Mercado Pago QR;Delivery propio
+13/12/2025;Churro con cobertura de chocolate;24;1150;Efectivo;Mostrador
+13/12/2025;Churro con cobertura de chocolate;28;1150;Tarjeta de débito;Mostrador
+13/12/2025;Churro con cobertura de chocolate;21;1150;Mercado Pago QR;Mostrador
+13/12/2025;Churro con cobertura de chocolate;12;1150;PedidosYa (pago en app);PedidosYa
+13/12/2025;Churro con cobertura de chocolate;2;1150;Efectivo;Delivery propio
+13/12/2025;Churro relleno común;42;1200;Efectivo;Mostrador
+13/12/2025;Churro relleno común;36;1200;Tarjeta de débito;Mostrador
+13/12/2025;Churro relleno común;33;1200;Mercado Pago QR;Mostrador
+13/12/2025;Churro relleno común;20;1200;PedidosYa (pago en app);PedidosYa
+13/12/2025;Churro relleno común;7;1200;Efectivo;Delivery propio
+13/12/2025;Churro relleno especial;13;1200;Efectivo;Mostrador
+13/12/2025;Churro relleno especial;17;1200;Tarjeta de débito;Mostrador
+13/12/2025;Churro relleno especial;12;1200;Mercado Pago QR;Mostrador
+13/12/2025;Churro relleno especial;6;1200;PedidosYa (pago en app);PedidosYa
+13/12/2025;Churro relleno especial;4;1200;Efectivo;Delivery propio
+13/12/2025;Churro salado;11;1200;Efectivo;Mostrador
+13/12/2025;Churro salado;9;1200;Tarjeta de débito;Mostrador
+13/12/2025;Churro salado;8;1200;Mercado Pago QR;Mostrador
+13/12/2025;Churro salado;5;1200;PedidosYa (pago en app);PedidosYa
+13/12/2025;Churro salado;6;1200;Efectivo;Delivery propio
+13/12/2025;Café chico;13;3450;Efectivo;Mostrador
+13/12/2025;Café chico;15;3450;Tarjeta de débito;Mostrador
+13/12/2025;Café chico;12;3450;Mercado Pago QR;Mostrador
+13/12/2025;Café chico;11;3450;PedidosYa (pago en app);PedidosYa
+13/12/2025;Café grande;9;3600;Efectivo;Mostrador
+13/12/2025;Café grande;11;3600;Tarjeta de débito;Mostrador
+13/12/2025;Café grande;9;3600;Mercado Pago QR;Mostrador
+13/12/2025;Café grande;6;3600;PedidosYa (pago en app);PedidosYa
+13/12/2025;Coca-Cola;9;2400;Efectivo;Mostrador
+13/12/2025;Coca-Cola;10;2400;Tarjeta de débito;Mostrador
+13/12/2025;Coca-Cola;9;2400;Mercado Pago QR;Mostrador
+13/12/2025;Coca-Cola;8;2400;PedidosYa (pago en app);PedidosYa
+13/12/2025;Coca-Cola;2;2400;Efectivo;Delivery propio
+13/12/2025;Coca-Cola Zero;6;2400;Efectivo;Mostrador
+13/12/2025;Coca-Cola Zero;6;2400;Tarjeta de débito;Mostrador
+13/12/2025;Coca-Cola Zero;5;2400;Mercado Pago QR;Mostrador
+13/12/2025;Coca-Cola Zero;6;2400;PedidosYa (pago en app);PedidosYa
+13/12/2025;Coca-Cola Zero;3;2400;Efectivo;Delivery propio
+13/12/2025;Fanta;7;2400;Efectivo;Mostrador
+13/12/2025;Fanta;8;2400;Tarjeta de débito;Mostrador
+13/12/2025;Fanta;7;2400;Mercado Pago QR;Mostrador
+13/12/2025;Fanta;3;2400;PedidosYa (pago en app);PedidosYa
+13/12/2025;Fanta;1;2400;Mercado Pago QR;Delivery propio
+13/12/2025;Sprite;6;2400;Efectivo;Mostrador
+13/12/2025;Sprite;5;2400;Tarjeta de débito;Mostrador
+13/12/2025;Sprite;4;2400;Mercado Pago QR;Mostrador
+13/12/2025;Sprite;6;2400;PedidosYa (pago en app);PedidosYa
+13/12/2025;Sprite Zero;2;2400;Efectivo;Mostrador
+13/12/2025;Sprite Zero;2;2400;Tarjeta de débito;Mostrador
+13/12/2025;Sprite Zero;2;2400;Mercado Pago QR;Mostrador
+13/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+13/12/2025;Agua con gas;4;1950;Efectivo;Mostrador
+13/12/2025;Agua con gas;4;1950;Tarjeta de débito;Mostrador
+13/12/2025;Agua con gas;4;1950;Mercado Pago QR;Mostrador
+13/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+13/12/2025;Agua con gas;1;1950;Mercado Pago QR;Delivery propio
+13/12/2025;Agua sin gas;11;1950;Efectivo;Mostrador
+13/12/2025;Agua sin gas;9;1950;Tarjeta de débito;Mostrador
+13/12/2025;Agua sin gas;8;1950;Mercado Pago QR;Mostrador
+13/12/2025;Agua sin gas;6;1950;PedidosYa (pago en app);PedidosYa
+13/12/2025;Agua sin gas;1;1950;Efectivo;Delivery propio
+14/12/2025;Churro simple;67;900;Efectivo;Mostrador
+14/12/2025;Churro simple;73;900;Tarjeta de débito;Mostrador
+14/12/2025;Churro simple;50;900;Mercado Pago QR;Mostrador
+14/12/2025;Churro simple;27;900;PedidosYa (pago en app);PedidosYa
+14/12/2025;Churro simple;9;900;Efectivo;Delivery propio
+14/12/2025;Churro con cobertura de chocolate;33;1150;Efectivo;Mostrador
+14/12/2025;Churro con cobertura de chocolate;29;1150;Tarjeta de débito;Mostrador
+14/12/2025;Churro con cobertura de chocolate;23;1150;Mercado Pago QR;Mostrador
+14/12/2025;Churro con cobertura de chocolate;16;1150;PedidosYa (pago en app);PedidosYa
+14/12/2025;Churro relleno común;46;1200;Efectivo;Mostrador
+14/12/2025;Churro relleno común;45;1200;Tarjeta de débito;Mostrador
+14/12/2025;Churro relleno común;36;1200;Mercado Pago QR;Mostrador
+14/12/2025;Churro relleno común;19;1200;PedidosYa (pago en app);PedidosYa
+14/12/2025;Churro relleno común;10;1200;Efectivo;Delivery propio
+14/12/2025;Churro relleno especial;19;1200;Efectivo;Mostrador
+14/12/2025;Churro relleno especial;16;1200;Tarjeta de débito;Mostrador
+14/12/2025;Churro relleno especial;14;1200;Mercado Pago QR;Mostrador
+14/12/2025;Churro relleno especial;8;1200;PedidosYa (pago en app);PedidosYa
+14/12/2025;Churro relleno especial;1;1200;Mercado Pago QR;Delivery propio
+14/12/2025;Churro salado;10;1200;Efectivo;Mostrador
+14/12/2025;Churro salado;13;1200;Tarjeta de débito;Mostrador
+14/12/2025;Churro salado;10;1200;Mercado Pago QR;Mostrador
+14/12/2025;Churro salado;4;1200;PedidosYa (pago en app);PedidosYa
+14/12/2025;Churro salado;5;1200;Efectivo;Delivery propio
+14/12/2025;Café chico;20;3450;Efectivo;Mostrador
+14/12/2025;Café chico;19;3450;Tarjeta de débito;Mostrador
+14/12/2025;Café chico;12;3450;Mercado Pago QR;Mostrador
+14/12/2025;Café chico;6;3450;PedidosYa (pago en app);PedidosYa
+14/12/2025;Café chico;3;3450;Mercado Pago QR;Delivery propio
+14/12/2025;Café grande;14;3600;Efectivo;Mostrador
+14/12/2025;Café grande;12;3600;Tarjeta de débito;Mostrador
+14/12/2025;Café grande;10;3600;Mercado Pago QR;Mostrador
+14/12/2025;Café grande;5;3600;PedidosYa (pago en app);PedidosYa
+14/12/2025;Café grande;2;3600;Efectivo;Delivery propio
+14/12/2025;Coca-Cola;12;2400;Efectivo;Mostrador
+14/12/2025;Coca-Cola;12;2400;Tarjeta de débito;Mostrador
+14/12/2025;Coca-Cola;9;2400;Mercado Pago QR;Mostrador
+14/12/2025;Coca-Cola;9;2400;PedidosYa (pago en app);PedidosYa
+14/12/2025;Coca-Cola;2;2400;Efectivo;Delivery propio
+14/12/2025;Coca-Cola Zero;6;2400;Efectivo;Mostrador
+14/12/2025;Coca-Cola Zero;6;2400;Tarjeta de débito;Mostrador
+14/12/2025;Coca-Cola Zero;4;2400;Mercado Pago QR;Mostrador
+14/12/2025;Coca-Cola Zero;3;2400;PedidosYa (pago en app);PedidosYa
+14/12/2025;Coca-Cola Zero;1;2400;Efectivo;Delivery propio
+14/12/2025;Fanta;5;2400;Efectivo;Mostrador
+14/12/2025;Fanta;4;2400;Tarjeta de débito;Mostrador
+14/12/2025;Fanta;4;2400;Mercado Pago QR;Mostrador
+14/12/2025;Fanta;4;2400;PedidosYa (pago en app);PedidosYa
+14/12/2025;Fanta;2;2400;Efectivo;Delivery propio
+14/12/2025;Sprite;5;2400;Efectivo;Mostrador
+14/12/2025;Sprite;5;2400;Tarjeta de débito;Mostrador
+14/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+14/12/2025;Sprite;5;2400;PedidosYa (pago en app);PedidosYa
+14/12/2025;Sprite;1;2400;Efectivo;Delivery propio
+14/12/2025;Sprite Zero;3;2400;Efectivo;Mostrador
+14/12/2025;Sprite Zero;3;2400;Tarjeta de débito;Mostrador
+14/12/2025;Sprite Zero;2;2400;Mercado Pago QR;Mostrador
+14/12/2025;Sprite Zero;1;2400;Efectivo;Delivery propio
+14/12/2025;Agua con gas;3;1950;Efectivo;Mostrador
+14/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+14/12/2025;Agua con gas;2;1950;Mercado Pago QR;Mostrador
+14/12/2025;Agua con gas;6;1950;PedidosYa (pago en app);PedidosYa
+14/12/2025;Agua sin gas;8;1950;Efectivo;Mostrador
+14/12/2025;Agua sin gas;7;1950;Tarjeta de débito;Mostrador
+14/12/2025;Agua sin gas;6;1950;Mercado Pago QR;Mostrador
+14/12/2025;Agua sin gas;5;1950;PedidosYa (pago en app);PedidosYa
+14/12/2025;Agua sin gas;1;1950;Efectivo;Delivery propio
+15/12/2025;Churro simple;32;900;Efectivo;Mostrador
+15/12/2025;Churro simple;36;900;Tarjeta de débito;Mostrador
+15/12/2025;Churro simple;29;900;Mercado Pago QR;Mostrador
+15/12/2025;Churro simple;10;900;PedidosYa (pago en app);PedidosYa
+15/12/2025;Churro simple;6;900;Efectivo;Delivery propio
+15/12/2025;Churro con cobertura de chocolate;12;1150;Efectivo;Mostrador
+15/12/2025;Churro con cobertura de chocolate;12;1150;Tarjeta de débito;Mostrador
+15/12/2025;Churro con cobertura de chocolate;12;1150;Mercado Pago QR;Mostrador
+15/12/2025;Churro con cobertura de chocolate;9;1150;PedidosYa (pago en app);PedidosYa
+15/12/2025;Churro con cobertura de chocolate;2;1150;Efectivo;Delivery propio
+15/12/2025;Churro relleno común;23;1200;Efectivo;Mostrador
+15/12/2025;Churro relleno común;25;1200;Tarjeta de débito;Mostrador
+15/12/2025;Churro relleno común;20;1200;Mercado Pago QR;Mostrador
+15/12/2025;Churro relleno común;10;1200;PedidosYa (pago en app);PedidosYa
+15/12/2025;Churro relleno común;4;1200;Efectivo;Delivery propio
+15/12/2025;Churro relleno especial;6;1200;Efectivo;Mostrador
+15/12/2025;Churro relleno especial;9;1200;Tarjeta de débito;Mostrador
+15/12/2025;Churro relleno especial;6;1200;Mercado Pago QR;Mostrador
+15/12/2025;Churro relleno especial;4;1200;PedidosYa (pago en app);PedidosYa
+15/12/2025;Churro relleno especial;3;1200;Efectivo;Delivery propio
+15/12/2025;Churro salado;4;1200;Efectivo;Mostrador
+15/12/2025;Churro salado;4;1200;Tarjeta de débito;Mostrador
+15/12/2025;Churro salado;2;1200;Mercado Pago QR;Mostrador
+15/12/2025;Churro salado;5;1200;PedidosYa (pago en app);PedidosYa
+15/12/2025;Café chico;4;3450;Efectivo;Mostrador
+15/12/2025;Café chico;5;3450;Tarjeta de débito;Mostrador
+15/12/2025;Café chico;4;3450;Mercado Pago QR;Mostrador
+15/12/2025;Café chico;7;3450;PedidosYa (pago en app);PedidosYa
+15/12/2025;Café chico;3;3450;Efectivo;Delivery propio
+15/12/2025;Café grande;6;3600;Efectivo;Mostrador
+15/12/2025;Café grande;7;3600;Tarjeta de débito;Mostrador
+15/12/2025;Café grande;6;3600;Mercado Pago QR;Mostrador
+15/12/2025;Café grande;5;3600;PedidosYa (pago en app);PedidosYa
+15/12/2025;Coca-Cola;5;2400;Efectivo;Mostrador
+15/12/2025;Coca-Cola;5;2400;Tarjeta de débito;Mostrador
+15/12/2025;Coca-Cola;5;2400;Mercado Pago QR;Mostrador
+15/12/2025;Coca-Cola;1;2400;PedidosYa (pago en app);PedidosYa
+15/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+15/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+15/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+15/12/2025;Coca-Cola Zero;1;2400;PedidosYa (pago en app);PedidosYa
+15/12/2025;Fanta;2;2400;Efectivo;Mostrador
+15/12/2025;Fanta;3;2400;Tarjeta de débito;Mostrador
+15/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+15/12/2025;Sprite;3;2400;Efectivo;Mostrador
+15/12/2025;Sprite;3;2400;Tarjeta de débito;Mostrador
+15/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+15/12/2025;Sprite;2;2400;PedidosYa (pago en app);PedidosYa
+15/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+15/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+15/12/2025;Sprite Zero;2;2400;PedidosYa (pago en app);PedidosYa
+15/12/2025;Agua con gas;1;1950;Efectivo;Mostrador
+15/12/2025;Agua con gas;1;1950;Tarjeta de débito;Mostrador
+15/12/2025;Agua con gas;1;1950;Efectivo;Delivery propio
+15/12/2025;Agua sin gas;2;1950;Efectivo;Mostrador
+15/12/2025;Agua sin gas;2;1950;Tarjeta de débito;Mostrador
+15/12/2025;Agua sin gas;1;1950;Mercado Pago QR;Mostrador
+15/12/2025;Agua sin gas;1;1950;PedidosYa (pago en app);PedidosYa
+15/12/2025;Agua sin gas;1;1950;Efectivo;Delivery propio
+16/12/2025;Churro simple;38;900;Efectivo;Mostrador
+16/12/2025;Churro simple;38;900;Tarjeta de débito;Mostrador
+16/12/2025;Churro simple;37;900;Mercado Pago QR;Mostrador
+16/12/2025;Churro simple;18;900;PedidosYa (pago en app);PedidosYa
+16/12/2025;Churro simple;8;900;Efectivo;Delivery propio
+16/12/2025;Churro con cobertura de chocolate;16;1150;Efectivo;Mostrador
+16/12/2025;Churro con cobertura de chocolate;19;1150;Tarjeta de débito;Mostrador
+16/12/2025;Churro con cobertura de chocolate;16;1150;Mercado Pago QR;Mostrador
+16/12/2025;Churro con cobertura de chocolate;9;1150;PedidosYa (pago en app);PedidosYa
+16/12/2025;Churro con cobertura de chocolate;1;1150;Efectivo;Delivery propio
+16/12/2025;Churro relleno común;23;1200;Efectivo;Mostrador
+16/12/2025;Churro relleno común;24;1200;Tarjeta de débito;Mostrador
+16/12/2025;Churro relleno común;17;1200;Mercado Pago QR;Mostrador
+16/12/2025;Churro relleno común;17;1200;PedidosYa (pago en app);PedidosYa
+16/12/2025;Churro relleno común;7;1200;Efectivo;Delivery propio
+16/12/2025;Churro relleno especial;11;1200;Efectivo;Mostrador
+16/12/2025;Churro relleno especial;11;1200;Tarjeta de débito;Mostrador
+16/12/2025;Churro relleno especial;7;1200;Mercado Pago QR;Mostrador
+16/12/2025;Churro relleno especial;3;1200;PedidosYa (pago en app);PedidosYa
+16/12/2025;Churro salado;5;1200;Efectivo;Mostrador
+16/12/2025;Churro salado;7;1200;Tarjeta de débito;Mostrador
+16/12/2025;Churro salado;5;1200;Mercado Pago QR;Mostrador
+16/12/2025;Churro salado;4;1200;PedidosYa (pago en app);PedidosYa
+16/12/2025;Churro salado;2;1200;Mercado Pago QR;Delivery propio
+16/12/2025;Café chico;9;3450;Efectivo;Mostrador
+16/12/2025;Café chico;8;3450;Tarjeta de débito;Mostrador
+16/12/2025;Café chico;6;3450;Mercado Pago QR;Mostrador
+16/12/2025;Café chico;3;3450;PedidosYa (pago en app);PedidosYa
+16/12/2025;Café chico;1;3450;Mercado Pago QR;Delivery propio
+16/12/2025;Café grande;6;3600;Efectivo;Mostrador
+16/12/2025;Café grande;5;3600;Tarjeta de débito;Mostrador
+16/12/2025;Café grande;5;3600;Mercado Pago QR;Mostrador
+16/12/2025;Café grande;5;3600;PedidosYa (pago en app);PedidosYa
+16/12/2025;Café grande;1;3600;Mercado Pago QR;Delivery propio
+16/12/2025;Coca-Cola;4;2400;Efectivo;Mostrador
+16/12/2025;Coca-Cola;6;2400;Tarjeta de débito;Mostrador
+16/12/2025;Coca-Cola;4;2400;Mercado Pago QR;Mostrador
+16/12/2025;Coca-Cola;8;2400;PedidosYa (pago en app);PedidosYa
+16/12/2025;Coca-Cola;3;2400;Mercado Pago QR;Delivery propio
+16/12/2025;Coca-Cola Zero;7;2400;Efectivo;Mostrador
+16/12/2025;Coca-Cola Zero;6;2400;Tarjeta de débito;Mostrador
+16/12/2025;Coca-Cola Zero;5;2400;Mercado Pago QR;Mostrador
+16/12/2025;Coca-Cola Zero;4;2400;PedidosYa (pago en app);PedidosYa
+16/12/2025;Coca-Cola Zero;1;2400;Mercado Pago QR;Delivery propio
+16/12/2025;Fanta;4;2400;Efectivo;Mostrador
+16/12/2025;Fanta;4;2400;Tarjeta de débito;Mostrador
+16/12/2025;Fanta;4;2400;Mercado Pago QR;Mostrador
+16/12/2025;Fanta;3;2400;PedidosYa (pago en app);PedidosYa
+16/12/2025;Sprite;2;2400;Efectivo;Mostrador
+16/12/2025;Sprite;2;2400;Tarjeta de débito;Mostrador
+16/12/2025;Sprite;1;2400;Mercado Pago QR;Mostrador
+16/12/2025;Sprite Zero;2;2400;Efectivo;Mostrador
+16/12/2025;Sprite Zero;3;2400;Tarjeta de débito;Mostrador
+16/12/2025;Sprite Zero;2;2400;Mercado Pago QR;Mostrador
+16/12/2025;Agua con gas;1;1950;Efectivo;Mostrador
+16/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+16/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+16/12/2025;Agua con gas;2;1950;PedidosYa (pago en app);PedidosYa
+16/12/2025;Agua con gas;1;1950;Efectivo;Delivery propio
+16/12/2025;Agua sin gas;3;1950;Efectivo;Mostrador
+16/12/2025;Agua sin gas;3;1950;Tarjeta de débito;Mostrador
+16/12/2025;Agua sin gas;3;1950;Mercado Pago QR;Mostrador
+16/12/2025;Agua sin gas;2;1950;PedidosYa (pago en app);PedidosYa
+16/12/2025;Agua sin gas;1;1950;Efectivo;Delivery propio
+17/12/2025;Churro simple;46;900;Efectivo;Mostrador
+17/12/2025;Churro simple;45;900;Tarjeta de débito;Mostrador
+17/12/2025;Churro simple;30;900;Mercado Pago QR;Mostrador
+17/12/2025;Churro simple;23;900;PedidosYa (pago en app);PedidosYa
+17/12/2025;Churro simple;5;900;Mercado Pago QR;Delivery propio
+17/12/2025;Churro con cobertura de chocolate;17;1150;Efectivo;Mostrador
+17/12/2025;Churro con cobertura de chocolate;15;1150;Tarjeta de débito;Mostrador
+17/12/2025;Churro con cobertura de chocolate;11;1150;Mercado Pago QR;Mostrador
+17/12/2025;Churro con cobertura de chocolate;14;1150;PedidosYa (pago en app);PedidosYa
+17/12/2025;Churro con cobertura de chocolate;3;1150;Efectivo;Delivery propio
+17/12/2025;Churro relleno común;25;1200;Efectivo;Mostrador
+17/12/2025;Churro relleno común;27;1200;Tarjeta de débito;Mostrador
+17/12/2025;Churro relleno común;21;1200;Mercado Pago QR;Mostrador
+17/12/2025;Churro relleno común;9;1200;PedidosYa (pago en app);PedidosYa
+17/12/2025;Churro relleno común;6;1200;Efectivo;Delivery propio
+17/12/2025;Churro relleno especial;9;1200;Efectivo;Mostrador
+17/12/2025;Churro relleno especial;9;1200;Tarjeta de débito;Mostrador
+17/12/2025;Churro relleno especial;8;1200;Mercado Pago QR;Mostrador
+17/12/2025;Churro relleno especial;6;1200;PedidosYa (pago en app);PedidosYa
+17/12/2025;Churro salado;6;1200;Efectivo;Mostrador
+17/12/2025;Churro salado;5;1200;Tarjeta de débito;Mostrador
+17/12/2025;Churro salado;4;1200;Mercado Pago QR;Mostrador
+17/12/2025;Churro salado;8;1200;PedidosYa (pago en app);PedidosYa
+17/12/2025;Churro salado;3;1200;Efectivo;Delivery propio
+17/12/2025;Café chico;9;3450;Efectivo;Mostrador
+17/12/2025;Café chico;12;3450;Tarjeta de débito;Mostrador
+17/12/2025;Café chico;10;3450;Mercado Pago QR;Mostrador
+17/12/2025;Café chico;4;3450;PedidosYa (pago en app);PedidosYa
+17/12/2025;Café chico;2;3450;Efectivo;Delivery propio
+17/12/2025;Café grande;5;3600;Efectivo;Mostrador
+17/12/2025;Café grande;6;3600;Tarjeta de débito;Mostrador
+17/12/2025;Café grande;4;3600;Mercado Pago QR;Mostrador
+17/12/2025;Café grande;5;3600;PedidosYa (pago en app);PedidosYa
+17/12/2025;Coca-Cola;9;2400;Efectivo;Mostrador
+17/12/2025;Coca-Cola;8;2400;Tarjeta de débito;Mostrador
+17/12/2025;Coca-Cola;7;2400;Mercado Pago QR;Mostrador
+17/12/2025;Coca-Cola;7;2400;PedidosYa (pago en app);PedidosYa
+17/12/2025;Coca-Cola;2;2400;Mercado Pago QR;Delivery propio
+17/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+17/12/2025;Coca-Cola Zero;3;2400;Tarjeta de débito;Mostrador
+17/12/2025;Coca-Cola Zero;2;2400;Mercado Pago QR;Mostrador
+17/12/2025;Coca-Cola Zero;1;2400;PedidosYa (pago en app);PedidosYa
+17/12/2025;Coca-Cola Zero;1;2400;Efectivo;Delivery propio
+17/12/2025;Fanta;3;2400;Efectivo;Mostrador
+17/12/2025;Fanta;4;2400;Tarjeta de débito;Mostrador
+17/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+17/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+17/12/2025;Sprite;4;2400;Efectivo;Mostrador
+17/12/2025;Sprite;4;2400;Tarjeta de débito;Mostrador
+17/12/2025;Sprite;2;2400;Mercado Pago QR;Mostrador
+17/12/2025;Sprite;1;2400;PedidosYa (pago en app);PedidosYa
+17/12/2025;Sprite;1;2400;Mercado Pago QR;Delivery propio
+17/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+17/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+17/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+17/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+17/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+17/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+17/12/2025;Agua con gas;2;1950;Mercado Pago QR;Delivery propio
+17/12/2025;Agua sin gas;6;1950;Efectivo;Mostrador
+17/12/2025;Agua sin gas;8;1950;Tarjeta de débito;Mostrador
+17/12/2025;Agua sin gas;5;1950;Mercado Pago QR;Mostrador
+17/12/2025;Agua sin gas;2;1950;PedidosYa (pago en app);PedidosYa
+18/12/2025;Churro simple;44;900;Efectivo;Mostrador
+18/12/2025;Churro simple;39;900;Tarjeta de débito;Mostrador
+18/12/2025;Churro simple;38;900;Mercado Pago QR;Mostrador
+18/12/2025;Churro simple;20;900;PedidosYa (pago en app);PedidosYa
+18/12/2025;Churro simple;6;900;Efectivo;Delivery propio
+18/12/2025;Churro con cobertura de chocolate;16;1150;Efectivo;Mostrador
+18/12/2025;Churro con cobertura de chocolate;15;1150;Tarjeta de débito;Mostrador
+18/12/2025;Churro con cobertura de chocolate;14;1150;Mercado Pago QR;Mostrador
+18/12/2025;Churro con cobertura de chocolate;9;1150;PedidosYa (pago en app);PedidosYa
+18/12/2025;Churro con cobertura de chocolate;2;1150;Efectivo;Delivery propio
+18/12/2025;Churro relleno común;28;1200;Efectivo;Mostrador
+18/12/2025;Churro relleno común;25;1200;Tarjeta de débito;Mostrador
+18/12/2025;Churro relleno común;22;1200;Mercado Pago QR;Mostrador
+18/12/2025;Churro relleno común;13;1200;PedidosYa (pago en app);PedidosYa
+18/12/2025;Churro relleno común;2;1200;Efectivo;Delivery propio
+18/12/2025;Churro relleno especial;9;1200;Efectivo;Mostrador
+18/12/2025;Churro relleno especial;10;1200;Tarjeta de débito;Mostrador
+18/12/2025;Churro relleno especial;10;1200;Mercado Pago QR;Mostrador
+18/12/2025;Churro relleno especial;3;1200;PedidosYa (pago en app);PedidosYa
+18/12/2025;Churro salado;11;1200;Efectivo;Mostrador
+18/12/2025;Churro salado;11;1200;Tarjeta de débito;Mostrador
+18/12/2025;Churro salado;9;1200;Mercado Pago QR;Mostrador
+18/12/2025;Churro salado;2;1200;Efectivo;Delivery propio
+18/12/2025;Café chico;9;3450;Efectivo;Mostrador
+18/12/2025;Café chico;10;3450;Tarjeta de débito;Mostrador
+18/12/2025;Café chico;9;3450;Mercado Pago QR;Mostrador
+18/12/2025;Café chico;8;3450;PedidosYa (pago en app);PedidosYa
+18/12/2025;Café chico;1;3450;Efectivo;Delivery propio
+18/12/2025;Café grande;5;3600;Efectivo;Mostrador
+18/12/2025;Café grande;6;3600;Tarjeta de débito;Mostrador
+18/12/2025;Café grande;4;3600;Mercado Pago QR;Mostrador
+18/12/2025;Café grande;2;3600;PedidosYa (pago en app);PedidosYa
+18/12/2025;Coca-Cola;10;2400;Efectivo;Mostrador
+18/12/2025;Coca-Cola;10;2400;Tarjeta de débito;Mostrador
+18/12/2025;Coca-Cola;8;2400;Mercado Pago QR;Mostrador
+18/12/2025;Coca-Cola;6;2400;PedidosYa (pago en app);PedidosYa
+18/12/2025;Coca-Cola;6;2400;Efectivo;Delivery propio
+18/12/2025;Coca-Cola Zero;3;2400;Efectivo;Mostrador
+18/12/2025;Coca-Cola Zero;3;2400;Tarjeta de débito;Mostrador
+18/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+18/12/2025;Fanta;2;2400;Efectivo;Mostrador
+18/12/2025;Fanta;1;2400;Tarjeta de débito;Mostrador
+18/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+18/12/2025;Fanta;3;2400;PedidosYa (pago en app);PedidosYa
+18/12/2025;Fanta;1;2400;Mercado Pago QR;Delivery propio
+18/12/2025;Sprite;4;2400;Efectivo;Mostrador
+18/12/2025;Sprite;3;2400;Tarjeta de débito;Mostrador
+18/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+18/12/2025;Sprite;1;2400;Mercado Pago QR;Delivery propio
+18/12/2025;Sprite Zero;2;2400;Efectivo;Mostrador
+18/12/2025;Sprite Zero;2;2400;Tarjeta de débito;Mostrador
+18/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+18/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+18/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+18/12/2025;Agua con gas;2;1950;Mercado Pago QR;Mostrador
+18/12/2025;Agua sin gas;7;1950;Efectivo;Mostrador
+18/12/2025;Agua sin gas;7;1950;Tarjeta de débito;Mostrador
+18/12/2025;Agua sin gas;5;1950;Mercado Pago QR;Mostrador
+18/12/2025;Agua sin gas;2;1950;PedidosYa (pago en app);PedidosYa
+18/12/2025;Agua sin gas;1;1950;Mercado Pago QR;Delivery propio
+19/12/2025;Churro simple;45;900;Efectivo;Mostrador
+19/12/2025;Churro simple;55;900;Tarjeta de débito;Mostrador
+19/12/2025;Churro simple;42;900;Mercado Pago QR;Mostrador
+19/12/2025;Churro simple;25;900;PedidosYa (pago en app);PedidosYa
+19/12/2025;Churro simple;11;900;Efectivo;Delivery propio
+19/12/2025;Churro con cobertura de chocolate;24;1150;Efectivo;Mostrador
+19/12/2025;Churro con cobertura de chocolate;24;1150;Tarjeta de débito;Mostrador
+19/12/2025;Churro con cobertura de chocolate;19;1150;Mercado Pago QR;Mostrador
+19/12/2025;Churro con cobertura de chocolate;11;1150;PedidosYa (pago en app);PedidosYa
+19/12/2025;Churro con cobertura de chocolate;6;1150;Efectivo;Delivery propio
+19/12/2025;Churro relleno común;34;1200;Efectivo;Mostrador
+19/12/2025;Churro relleno común;34;1200;Tarjeta de débito;Mostrador
+19/12/2025;Churro relleno común;32;1200;Mercado Pago QR;Mostrador
+19/12/2025;Churro relleno común;12;1200;PedidosYa (pago en app);PedidosYa
+19/12/2025;Churro relleno común;10;1200;Efectivo;Delivery propio
+19/12/2025;Churro relleno especial;16;1200;Efectivo;Mostrador
+19/12/2025;Churro relleno especial;13;1200;Tarjeta de débito;Mostrador
+19/12/2025;Churro relleno especial;12;1200;Mercado Pago QR;Mostrador
+19/12/2025;Churro relleno especial;3;1200;PedidosYa (pago en app);PedidosYa
+19/12/2025;Churro relleno especial;1;1200;Mercado Pago QR;Delivery propio
+19/12/2025;Churro salado;10;1200;Efectivo;Mostrador
+19/12/2025;Churro salado;10;1200;Tarjeta de débito;Mostrador
+19/12/2025;Churro salado;9;1200;Mercado Pago QR;Mostrador
+19/12/2025;Churro salado;2;1200;Mercado Pago QR;Delivery propio
+19/12/2025;Café chico;17;3450;Efectivo;Mostrador
+19/12/2025;Café chico;14;3450;Tarjeta de débito;Mostrador
+19/12/2025;Café chico;12;3450;Mercado Pago QR;Mostrador
+19/12/2025;Café chico;5;3450;PedidosYa (pago en app);PedidosYa
+19/12/2025;Café chico;3;3450;Efectivo;Delivery propio
+19/12/2025;Café grande;9;3600;Efectivo;Mostrador
+19/12/2025;Café grande;10;3600;Tarjeta de débito;Mostrador
+19/12/2025;Café grande;8;3600;Mercado Pago QR;Mostrador
+19/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+19/12/2025;Café grande;1;3600;Efectivo;Delivery propio
+19/12/2025;Coca-Cola;11;2400;Efectivo;Mostrador
+19/12/2025;Coca-Cola;9;2400;Tarjeta de débito;Mostrador
+19/12/2025;Coca-Cola;9;2400;Mercado Pago QR;Mostrador
+19/12/2025;Coca-Cola;9;2400;PedidosYa (pago en app);PedidosYa
+19/12/2025;Coca-Cola Zero;7;2400;Efectivo;Mostrador
+19/12/2025;Coca-Cola Zero;6;2400;Tarjeta de débito;Mostrador
+19/12/2025;Coca-Cola Zero;4;2400;Mercado Pago QR;Mostrador
+19/12/2025;Coca-Cola Zero;1;2400;PedidosYa (pago en app);PedidosYa
+19/12/2025;Fanta;5;2400;Efectivo;Mostrador
+19/12/2025;Fanta;5;2400;Tarjeta de débito;Mostrador
+19/12/2025;Fanta;4;2400;Mercado Pago QR;Mostrador
+19/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+19/12/2025;Sprite;4;2400;Efectivo;Mostrador
+19/12/2025;Sprite;5;2400;Tarjeta de débito;Mostrador
+19/12/2025;Sprite;5;2400;Mercado Pago QR;Mostrador
+19/12/2025;Sprite;2;2400;PedidosYa (pago en app);PedidosYa
+19/12/2025;Sprite Zero;3;2400;Efectivo;Mostrador
+19/12/2025;Sprite Zero;3;2400;Tarjeta de débito;Mostrador
+19/12/2025;Sprite Zero;3;2400;Mercado Pago QR;Mostrador
+19/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+19/12/2025;Sprite Zero;2;2400;Efectivo;Delivery propio
+19/12/2025;Agua con gas;1;1950;Efectivo;Mostrador
+19/12/2025;Agua con gas;1;1950;Tarjeta de débito;Mostrador
+19/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+19/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+19/12/2025;Agua con gas;1;1950;Efectivo;Delivery propio
+19/12/2025;Agua sin gas;5;1950;Efectivo;Mostrador
+19/12/2025;Agua sin gas;5;1950;Tarjeta de débito;Mostrador
+19/12/2025;Agua sin gas;5;1950;Mercado Pago QR;Mostrador
+19/12/2025;Agua sin gas;5;1950;PedidosYa (pago en app);PedidosYa
+19/12/2025;Agua sin gas;2;1950;Efectivo;Delivery propio
+20/12/2025;Churro simple;73;900;Efectivo;Mostrador
+20/12/2025;Churro simple;65;900;Tarjeta de débito;Mostrador
+20/12/2025;Churro simple;47;900;Mercado Pago QR;Mostrador
+20/12/2025;Churro simple;29;900;PedidosYa (pago en app);PedidosYa
+20/12/2025;Churro simple;10;900;Mercado Pago QR;Delivery propio
+20/12/2025;Churro con cobertura de chocolate;20;1150;Efectivo;Mostrador
+20/12/2025;Churro con cobertura de chocolate;22;1150;Tarjeta de débito;Mostrador
+20/12/2025;Churro con cobertura de chocolate;17;1150;Mercado Pago QR;Mostrador
+20/12/2025;Churro con cobertura de chocolate;17;1150;PedidosYa (pago en app);PedidosYa
+20/12/2025;Churro con cobertura de chocolate;10;1150;Efectivo;Delivery propio
+20/12/2025;Churro relleno común;50;1200;Efectivo;Mostrador
+20/12/2025;Churro relleno común;41;1200;Tarjeta de débito;Mostrador
+20/12/2025;Churro relleno común;37;1200;Mercado Pago QR;Mostrador
+20/12/2025;Churro relleno común;19;1200;PedidosYa (pago en app);PedidosYa
+20/12/2025;Churro relleno común;7;1200;Efectivo;Delivery propio
+20/12/2025;Churro relleno especial;15;1200;Efectivo;Mostrador
+20/12/2025;Churro relleno especial;18;1200;Tarjeta de débito;Mostrador
+20/12/2025;Churro relleno especial;13;1200;Mercado Pago QR;Mostrador
+20/12/2025;Churro relleno especial;5;1200;PedidosYa (pago en app);PedidosYa
+20/12/2025;Churro relleno especial;3;1200;Mercado Pago QR;Delivery propio
+20/12/2025;Churro salado;11;1200;Efectivo;Mostrador
+20/12/2025;Churro salado;11;1200;Tarjeta de débito;Mostrador
+20/12/2025;Churro salado;9;1200;Mercado Pago QR;Mostrador
+20/12/2025;Churro salado;3;1200;PedidosYa (pago en app);PedidosYa
+20/12/2025;Churro salado;3;1200;Efectivo;Delivery propio
+20/12/2025;Café chico;20;3450;Efectivo;Mostrador
+20/12/2025;Café chico;16;3450;Tarjeta de débito;Mostrador
+20/12/2025;Café chico;16;3450;Mercado Pago QR;Mostrador
+20/12/2025;Café chico;10;3450;PedidosYa (pago en app);PedidosYa
+20/12/2025;Café chico;2;3450;Mercado Pago QR;Delivery propio
+20/12/2025;Café grande;12;3600;Efectivo;Mostrador
+20/12/2025;Café grande;11;3600;Tarjeta de débito;Mostrador
+20/12/2025;Café grande;10;3600;Mercado Pago QR;Mostrador
+20/12/2025;Café grande;6;3600;PedidosYa (pago en app);PedidosYa
+20/12/2025;Café grande;1;3600;Efectivo;Delivery propio
+20/12/2025;Coca-Cola;14;2400;Efectivo;Mostrador
+20/12/2025;Coca-Cola;13;2400;Tarjeta de débito;Mostrador
+20/12/2025;Coca-Cola;13;2400;Mercado Pago QR;Mostrador
+20/12/2025;Coca-Cola;7;2400;PedidosYa (pago en app);PedidosYa
+20/12/2025;Coca-Cola;2;2400;Efectivo;Delivery propio
+20/12/2025;Coca-Cola Zero;9;2400;Efectivo;Mostrador
+20/12/2025;Coca-Cola Zero;8;2400;Tarjeta de débito;Mostrador
+20/12/2025;Coca-Cola Zero;7;2400;Mercado Pago QR;Mostrador
+20/12/2025;Coca-Cola Zero;4;2400;Efectivo;Delivery propio
+20/12/2025;Fanta;4;2400;Efectivo;Mostrador
+20/12/2025;Fanta;4;2400;Tarjeta de débito;Mostrador
+20/12/2025;Fanta;3;2400;Mercado Pago QR;Mostrador
+20/12/2025;Fanta;4;2400;PedidosYa (pago en app);PedidosYa
+20/12/2025;Fanta;1;2400;Efectivo;Delivery propio
+20/12/2025;Sprite;7;2400;Efectivo;Mostrador
+20/12/2025;Sprite;9;2400;Tarjeta de débito;Mostrador
+20/12/2025;Sprite;6;2400;Mercado Pago QR;Mostrador
+20/12/2025;Sprite;2;2400;PedidosYa (pago en app);PedidosYa
+20/12/2025;Sprite;1;2400;Mercado Pago QR;Delivery propio
+20/12/2025;Sprite Zero;5;2400;Efectivo;Mostrador
+20/12/2025;Sprite Zero;4;2400;Tarjeta de débito;Mostrador
+20/12/2025;Sprite Zero;4;2400;Mercado Pago QR;Mostrador
+20/12/2025;Sprite Zero;3;2400;PedidosYa (pago en app);PedidosYa
+20/12/2025;Agua con gas;4;1950;Efectivo;Mostrador
+20/12/2025;Agua con gas;4;1950;Tarjeta de débito;Mostrador
+20/12/2025;Agua con gas;4;1950;Mercado Pago QR;Mostrador
+20/12/2025;Agua con gas;2;1950;PedidosYa (pago en app);PedidosYa
+20/12/2025;Agua con gas;1;1950;Efectivo;Delivery propio
+20/12/2025;Agua sin gas;7;1950;Efectivo;Mostrador
+20/12/2025;Agua sin gas;8;1950;Tarjeta de débito;Mostrador
+20/12/2025;Agua sin gas;6;1950;Mercado Pago QR;Mostrador
+20/12/2025;Agua sin gas;4;1950;PedidosYa (pago en app);PedidosYa
+20/12/2025;Agua sin gas;1;1950;Mercado Pago QR;Delivery propio
+21/12/2025;Churro simple;62;900;Efectivo;Mostrador
+21/12/2025;Churro simple;56;900;Tarjeta de débito;Mostrador
+21/12/2025;Churro simple;45;900;Mercado Pago QR;Mostrador
+21/12/2025;Churro simple;25;900;PedidosYa (pago en app);PedidosYa
+21/12/2025;Churro simple;14;900;Mercado Pago QR;Delivery propio
+21/12/2025;Churro con cobertura de chocolate;26;1150;Efectivo;Mostrador
+21/12/2025;Churro con cobertura de chocolate;23;1150;Tarjeta de débito;Mostrador
+21/12/2025;Churro con cobertura de chocolate;19;1150;Mercado Pago QR;Mostrador
+21/12/2025;Churro con cobertura de chocolate;15;1150;PedidosYa (pago en app);PedidosYa
+21/12/2025;Churro con cobertura de chocolate;4;1150;Efectivo;Delivery propio
+21/12/2025;Churro relleno común;34;1200;Efectivo;Mostrador
+21/12/2025;Churro relleno común;39;1200;Tarjeta de débito;Mostrador
+21/12/2025;Churro relleno común;34;1200;Mercado Pago QR;Mostrador
+21/12/2025;Churro relleno común;15;1200;PedidosYa (pago en app);PedidosYa
+21/12/2025;Churro relleno común;14;1200;Efectivo;Delivery propio
+21/12/2025;Churro relleno especial;13;1200;Efectivo;Mostrador
+21/12/2025;Churro relleno especial;16;1200;Tarjeta de débito;Mostrador
+21/12/2025;Churro relleno especial;12;1200;Mercado Pago QR;Mostrador
+21/12/2025;Churro relleno especial;7;1200;PedidosYa (pago en app);PedidosYa
+21/12/2025;Churro relleno especial;2;1200;Mercado Pago QR;Delivery propio
+21/12/2025;Churro salado;15;1200;Efectivo;Mostrador
+21/12/2025;Churro salado;14;1200;Tarjeta de débito;Mostrador
+21/12/2025;Churro salado;10;1200;Mercado Pago QR;Mostrador
+21/12/2025;Churro salado;4;1200;PedidosYa (pago en app);PedidosYa
+21/12/2025;Churro salado;1;1200;Mercado Pago QR;Delivery propio
+21/12/2025;Café chico;14;3450;Efectivo;Mostrador
+21/12/2025;Café chico;17;3450;Tarjeta de débito;Mostrador
+21/12/2025;Café chico;12;3450;Mercado Pago QR;Mostrador
+21/12/2025;Café chico;9;3450;PedidosYa (pago en app);PedidosYa
+21/12/2025;Café grande;10;3600;Efectivo;Mostrador
+21/12/2025;Café grande;12;3600;Tarjeta de débito;Mostrador
+21/12/2025;Café grande;8;3600;Mercado Pago QR;Mostrador
+21/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+21/12/2025;Café grande;2;3600;Efectivo;Delivery propio
+21/12/2025;Coca-Cola;13;2400;Efectivo;Mostrador
+21/12/2025;Coca-Cola;12;2400;Tarjeta de débito;Mostrador
+21/12/2025;Coca-Cola;10;2400;Mercado Pago QR;Mostrador
+21/12/2025;Coca-Cola;5;2400;PedidosYa (pago en app);PedidosYa
+21/12/2025;Coca-Cola;1;2400;Mercado Pago QR;Delivery propio
+21/12/2025;Coca-Cola Zero;7;2400;Efectivo;Mostrador
+21/12/2025;Coca-Cola Zero;6;2400;Tarjeta de débito;Mostrador
+21/12/2025;Coca-Cola Zero;5;2400;Mercado Pago QR;Mostrador
+21/12/2025;Coca-Cola Zero;3;2400;PedidosYa (pago en app);PedidosYa
+21/12/2025;Coca-Cola Zero;2;2400;Mercado Pago QR;Delivery propio
+21/12/2025;Fanta;4;2400;Efectivo;Mostrador
+21/12/2025;Fanta;5;2400;Tarjeta de débito;Mostrador
+21/12/2025;Fanta;3;2400;Mercado Pago QR;Mostrador
+21/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+21/12/2025;Fanta;1;2400;Efectivo;Delivery propio
+21/12/2025;Sprite;3;2400;Efectivo;Mostrador
+21/12/2025;Sprite;3;2400;Tarjeta de débito;Mostrador
+21/12/2025;Sprite;2;2400;Mercado Pago QR;Mostrador
+21/12/2025;Sprite;3;2400;PedidosYa (pago en app);PedidosYa
+21/12/2025;Sprite;2;2400;Efectivo;Delivery propio
+21/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+21/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+21/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+21/12/2025;Sprite Zero;3;2400;PedidosYa (pago en app);PedidosYa
+21/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Delivery propio
+21/12/2025;Agua con gas;9;1950;Efectivo;Mostrador
+21/12/2025;Agua con gas;8;1950;Tarjeta de débito;Mostrador
+21/12/2025;Agua con gas;6;1950;Mercado Pago QR;Mostrador
+21/12/2025;Agua con gas;3;1950;PedidosYa (pago en app);PedidosYa
+21/12/2025;Agua sin gas;9;1950;Efectivo;Mostrador
+21/12/2025;Agua sin gas;12;1950;Tarjeta de débito;Mostrador
+21/12/2025;Agua sin gas;9;1950;Mercado Pago QR;Mostrador
+22/12/2025;Churro simple;38;900;Efectivo;Mostrador
+22/12/2025;Churro simple;39;900;Tarjeta de débito;Mostrador
+22/12/2025;Churro simple;27;900;Mercado Pago QR;Mostrador
+22/12/2025;Churro simple;15;900;PedidosYa (pago en app);PedidosYa
+22/12/2025;Churro simple;10;900;Efectivo;Delivery propio
+22/12/2025;Churro con cobertura de chocolate;20;1150;Efectivo;Mostrador
+22/12/2025;Churro con cobertura de chocolate;17;1150;Tarjeta de débito;Mostrador
+22/12/2025;Churro con cobertura de chocolate;13;1150;Mercado Pago QR;Mostrador
+22/12/2025;Churro con cobertura de chocolate;6;1150;PedidosYa (pago en app);PedidosYa
+22/12/2025;Churro con cobertura de chocolate;1;1150;Mercado Pago QR;Delivery propio
+22/12/2025;Churro relleno común;20;1200;Efectivo;Mostrador
+22/12/2025;Churro relleno común;26;1200;Tarjeta de débito;Mostrador
+22/12/2025;Churro relleno común;20;1200;Mercado Pago QR;Mostrador
+22/12/2025;Churro relleno común;14;1200;PedidosYa (pago en app);PedidosYa
+22/12/2025;Churro relleno común;1;1200;Efectivo;Delivery propio
+22/12/2025;Churro relleno especial;9;1200;Efectivo;Mostrador
+22/12/2025;Churro relleno especial;8;1200;Tarjeta de débito;Mostrador
+22/12/2025;Churro relleno especial;7;1200;Mercado Pago QR;Mostrador
+22/12/2025;Churro relleno especial;5;1200;PedidosYa (pago en app);PedidosYa
+22/12/2025;Churro salado;6;1200;Efectivo;Mostrador
+22/12/2025;Churro salado;6;1200;Tarjeta de débito;Mostrador
+22/12/2025;Churro salado;5;1200;Mercado Pago QR;Mostrador
+22/12/2025;Churro salado;2;1200;PedidosYa (pago en app);PedidosYa
+22/12/2025;Churro salado;3;1200;Efectivo;Delivery propio
+22/12/2025;Café chico;8;3450;Efectivo;Mostrador
+22/12/2025;Café chico;10;3450;Tarjeta de débito;Mostrador
+22/12/2025;Café chico;9;3450;Mercado Pago QR;Mostrador
+22/12/2025;Café chico;4;3450;PedidosYa (pago en app);PedidosYa
+22/12/2025;Café chico;1;3450;Efectivo;Delivery propio
+22/12/2025;Café grande;4;3600;Efectivo;Mostrador
+22/12/2025;Café grande;4;3600;Tarjeta de débito;Mostrador
+22/12/2025;Café grande;3;3600;Mercado Pago QR;Mostrador
+22/12/2025;Café grande;3;3600;PedidosYa (pago en app);PedidosYa
+22/12/2025;Café grande;1;3600;Mercado Pago QR;Delivery propio
+22/12/2025;Coca-Cola;7;2400;Efectivo;Mostrador
+22/12/2025;Coca-Cola;8;2400;Tarjeta de débito;Mostrador
+22/12/2025;Coca-Cola;6;2400;Mercado Pago QR;Mostrador
+22/12/2025;Coca-Cola;2;2400;PedidosYa (pago en app);PedidosYa
+22/12/2025;Coca-Cola Zero;5;2400;Efectivo;Mostrador
+22/12/2025;Coca-Cola Zero;5;2400;Tarjeta de débito;Mostrador
+22/12/2025;Coca-Cola Zero;4;2400;Mercado Pago QR;Mostrador
+22/12/2025;Coca-Cola Zero;2;2400;PedidosYa (pago en app);PedidosYa
+22/12/2025;Coca-Cola Zero;1;2400;Efectivo;Delivery propio
+22/12/2025;Fanta;2;2400;Efectivo;Mostrador
+22/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+22/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+22/12/2025;Sprite;2;2400;Efectivo;Mostrador
+22/12/2025;Sprite;3;2400;Tarjeta de débito;Mostrador
+22/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+22/12/2025;Sprite;2;2400;PedidosYa (pago en app);PedidosYa
+22/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+22/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+22/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+22/12/2025;Agua con gas;1;1950;Efectivo;Mostrador
+22/12/2025;Agua con gas;1;1950;Tarjeta de débito;Mostrador
+22/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+22/12/2025;Agua con gas;2;1950;PedidosYa (pago en app);PedidosYa
+22/12/2025;Agua con gas;2;1950;Mercado Pago QR;Delivery propio
+22/12/2025;Agua sin gas;6;1950;Efectivo;Mostrador
+22/12/2025;Agua sin gas;5;1950;Tarjeta de débito;Mostrador
+22/12/2025;Agua sin gas;4;1950;Mercado Pago QR;Mostrador
+22/12/2025;Agua sin gas;1;1950;PedidosYa (pago en app);PedidosYa
+23/12/2025;Churro simple;37;900;Efectivo;Mostrador
+23/12/2025;Churro simple;37;900;Tarjeta de débito;Mostrador
+23/12/2025;Churro simple;37;900;Mercado Pago QR;Mostrador
+23/12/2025;Churro simple;14;900;PedidosYa (pago en app);PedidosYa
+23/12/2025;Churro simple;1;900;Efectivo;Delivery propio
+23/12/2025;Churro con cobertura de chocolate;20;1150;Efectivo;Mostrador
+23/12/2025;Churro con cobertura de chocolate;18;1150;Tarjeta de débito;Mostrador
+23/12/2025;Churro con cobertura de chocolate;16;1150;Mercado Pago QR;Mostrador
+23/12/2025;Churro con cobertura de chocolate;4;1150;PedidosYa (pago en app);PedidosYa
+23/12/2025;Churro con cobertura de chocolate;5;1150;Mercado Pago QR;Delivery propio
+23/12/2025;Churro relleno común;22;1200;Efectivo;Mostrador
+23/12/2025;Churro relleno común;29;1200;Tarjeta de débito;Mostrador
+23/12/2025;Churro relleno común;21;1200;Mercado Pago QR;Mostrador
+23/12/2025;Churro relleno común;9;1200;PedidosYa (pago en app);PedidosYa
+23/12/2025;Churro relleno común;5;1200;Efectivo;Delivery propio
+23/12/2025;Churro relleno especial;9;1200;Efectivo;Mostrador
+23/12/2025;Churro relleno especial;10;1200;Tarjeta de débito;Mostrador
+23/12/2025;Churro relleno especial;9;1200;Mercado Pago QR;Mostrador
+23/12/2025;Churro relleno especial;6;1200;PedidosYa (pago en app);PedidosYa
+23/12/2025;Churro relleno especial;1;1200;Mercado Pago QR;Delivery propio
+23/12/2025;Churro salado;7;1200;Efectivo;Mostrador
+23/12/2025;Churro salado;8;1200;Tarjeta de débito;Mostrador
+23/12/2025;Churro salado;7;1200;Mercado Pago QR;Mostrador
+23/12/2025;Churro salado;1;1200;PedidosYa (pago en app);PedidosYa
+23/12/2025;Churro salado;1;1200;Mercado Pago QR;Delivery propio
+23/12/2025;Café chico;10;3450;Efectivo;Mostrador
+23/12/2025;Café chico;9;3450;Tarjeta de débito;Mostrador
+23/12/2025;Café chico;6;3450;Mercado Pago QR;Mostrador
+23/12/2025;Café chico;1;3450;PedidosYa (pago en app);PedidosYa
+23/12/2025;Café chico;2;3450;Efectivo;Delivery propio
+23/12/2025;Café grande;6;3600;Efectivo;Mostrador
+23/12/2025;Café grande;6;3600;Tarjeta de débito;Mostrador
+23/12/2025;Café grande;5;3600;Mercado Pago QR;Mostrador
+23/12/2025;Café grande;3;3600;PedidosYa (pago en app);PedidosYa
+23/12/2025;Café grande;1;3600;Efectivo;Delivery propio
+23/12/2025;Coca-Cola;7;2400;Efectivo;Mostrador
+23/12/2025;Coca-Cola;7;2400;Tarjeta de débito;Mostrador
+23/12/2025;Coca-Cola;7;2400;Mercado Pago QR;Mostrador
+23/12/2025;Coca-Cola;7;2400;PedidosYa (pago en app);PedidosYa
+23/12/2025;Coca-Cola;1;2400;Efectivo;Delivery propio
+23/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+23/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+23/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+23/12/2025;Fanta;2;2400;Efectivo;Mostrador
+23/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+23/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+23/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+23/12/2025;Fanta;3;2400;Mercado Pago QR;Delivery propio
+23/12/2025;Sprite;4;2400;Efectivo;Mostrador
+23/12/2025;Sprite;5;2400;Tarjeta de débito;Mostrador
+23/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+23/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+23/12/2025;Agua con gas;4;1950;Efectivo;Mostrador
+23/12/2025;Agua con gas;5;1950;Tarjeta de débito;Mostrador
+23/12/2025;Agua con gas;4;1950;Mercado Pago QR;Mostrador
+23/12/2025;Agua sin gas;3;1950;Efectivo;Mostrador
+23/12/2025;Agua sin gas;4;1950;Tarjeta de débito;Mostrador
+23/12/2025;Agua sin gas;3;1950;Mercado Pago QR;Mostrador
+23/12/2025;Agua sin gas;5;1950;PedidosYa (pago en app);PedidosYa
+23/12/2025;Agua sin gas;1;1950;Efectivo;Delivery propio
+24/12/2025;Churro simple;37;900;Efectivo;Mostrador
+24/12/2025;Churro simple;41;900;Tarjeta de débito;Mostrador
+24/12/2025;Churro simple;35;900;Mercado Pago QR;Mostrador
+24/12/2025;Churro simple;18;900;PedidosYa (pago en app);PedidosYa
+24/12/2025;Churro simple;10;900;Efectivo;Delivery propio
+24/12/2025;Churro con cobertura de chocolate;12;1150;Efectivo;Mostrador
+24/12/2025;Churro con cobertura de chocolate;14;1150;Tarjeta de débito;Mostrador
+24/12/2025;Churro con cobertura de chocolate;12;1150;Mercado Pago QR;Mostrador
+24/12/2025;Churro con cobertura de chocolate;12;1150;PedidosYa (pago en app);PedidosYa
+24/12/2025;Churro con cobertura de chocolate;4;1150;Mercado Pago QR;Delivery propio
+24/12/2025;Churro relleno común;23;1200;Efectivo;Mostrador
+24/12/2025;Churro relleno común;20;1200;Tarjeta de débito;Mostrador
+24/12/2025;Churro relleno común;20;1200;Mercado Pago QR;Mostrador
+24/12/2025;Churro relleno común;12;1200;PedidosYa (pago en app);PedidosYa
+24/12/2025;Churro relleno común;3;1200;Efectivo;Delivery propio
+24/12/2025;Churro relleno especial;11;1200;Efectivo;Mostrador
+24/12/2025;Churro relleno especial;9;1200;Tarjeta de débito;Mostrador
+24/12/2025;Churro relleno especial;8;1200;Mercado Pago QR;Mostrador
+24/12/2025;Churro relleno especial;5;1200;PedidosYa (pago en app);PedidosYa
+24/12/2025;Churro relleno especial;2;1200;Efectivo;Delivery propio
+24/12/2025;Churro salado;8;1200;Efectivo;Mostrador
+24/12/2025;Churro salado;8;1200;Tarjeta de débito;Mostrador
+24/12/2025;Churro salado;6;1200;Mercado Pago QR;Mostrador
+24/12/2025;Churro salado;4;1200;PedidosYa (pago en app);PedidosYa
+24/12/2025;Churro salado;1;1200;Mercado Pago QR;Delivery propio
+24/12/2025;Café chico;11;3450;Efectivo;Mostrador
+24/12/2025;Café chico;10;3450;Tarjeta de débito;Mostrador
+24/12/2025;Café chico;7;3450;Mercado Pago QR;Mostrador
+24/12/2025;Café chico;3;3450;PedidosYa (pago en app);PedidosYa
+24/12/2025;Café chico;2;3450;Mercado Pago QR;Delivery propio
+24/12/2025;Café grande;5;3600;Efectivo;Mostrador
+24/12/2025;Café grande;6;3600;Tarjeta de débito;Mostrador
+24/12/2025;Café grande;4;3600;Mercado Pago QR;Mostrador
+24/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+24/12/2025;Café grande;1;3600;Efectivo;Delivery propio
+24/12/2025;Coca-Cola;7;2400;Efectivo;Mostrador
+24/12/2025;Coca-Cola;7;2400;Tarjeta de débito;Mostrador
+24/12/2025;Coca-Cola;6;2400;Mercado Pago QR;Mostrador
+24/12/2025;Coca-Cola;4;2400;PedidosYa (pago en app);PedidosYa
+24/12/2025;Coca-Cola;1;2400;Efectivo;Delivery propio
+24/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+24/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+24/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+24/12/2025;Coca-Cola Zero;4;2400;PedidosYa (pago en app);PedidosYa
+24/12/2025;Coca-Cola Zero;2;2400;Mercado Pago QR;Delivery propio
+24/12/2025;Fanta;1;2400;Efectivo;Mostrador
+24/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+24/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+24/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+24/12/2025;Sprite;1;2400;Efectivo;Mostrador
+24/12/2025;Sprite;1;2400;Tarjeta de débito;Mostrador
+24/12/2025;Sprite;1;2400;Mercado Pago QR;Mostrador
+24/12/2025;Sprite;1;2400;PedidosYa (pago en app);PedidosYa
+24/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+24/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+24/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+24/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+24/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+24/12/2025;Agua con gas;2;1950;Mercado Pago QR;Mostrador
+24/12/2025;Agua con gas;2;1950;PedidosYa (pago en app);PedidosYa
+24/12/2025;Agua sin gas;3;1950;Efectivo;Mostrador
+24/12/2025;Agua sin gas;3;1950;Tarjeta de débito;Mostrador
+24/12/2025;Agua sin gas;3;1950;Mercado Pago QR;Mostrador
+24/12/2025;Agua sin gas;2;1950;PedidosYa (pago en app);PedidosYa
+24/12/2025;Agua sin gas;1;1950;Efectivo;Delivery propio
+25/12/2025;Churro simple;47;900;Efectivo;Mostrador
+25/12/2025;Churro simple;48;900;Tarjeta de débito;Mostrador
+25/12/2025;Churro simple;33;900;Mercado Pago QR;Mostrador
+25/12/2025;Churro simple;21;900;PedidosYa (pago en app);PedidosYa
+25/12/2025;Churro simple;9;900;Mercado Pago QR;Delivery propio
+25/12/2025;Churro con cobertura de chocolate;19;1150;Efectivo;Mostrador
+25/12/2025;Churro con cobertura de chocolate;16;1150;Tarjeta de débito;Mostrador
+25/12/2025;Churro con cobertura de chocolate;16;1150;Mercado Pago QR;Mostrador
+25/12/2025;Churro con cobertura de chocolate;8;1150;PedidosYa (pago en app);PedidosYa
+25/12/2025;Churro con cobertura de chocolate;5;1150;Mercado Pago QR;Delivery propio
+25/12/2025;Churro relleno común;30;1200;Efectivo;Mostrador
+25/12/2025;Churro relleno común;29;1200;Tarjeta de débito;Mostrador
+25/12/2025;Churro relleno común;25;1200;Mercado Pago QR;Mostrador
+25/12/2025;Churro relleno común;16;1200;PedidosYa (pago en app);PedidosYa
+25/12/2025;Churro relleno común;5;1200;Mercado Pago QR;Delivery propio
+25/12/2025;Churro relleno especial;10;1200;Efectivo;Mostrador
+25/12/2025;Churro relleno especial;9;1200;Tarjeta de débito;Mostrador
+25/12/2025;Churro relleno especial;7;1200;Mercado Pago QR;Mostrador
+25/12/2025;Churro relleno especial;2;1200;PedidosYa (pago en app);PedidosYa
+25/12/2025;Churro relleno especial;1;1200;Mercado Pago QR;Delivery propio
+25/12/2025;Churro salado;7;1200;Efectivo;Mostrador
+25/12/2025;Churro salado;9;1200;Tarjeta de débito;Mostrador
+25/12/2025;Churro salado;7;1200;Mercado Pago QR;Mostrador
+25/12/2025;Churro salado;4;1200;PedidosYa (pago en app);PedidosYa
+25/12/2025;Churro salado;4;1200;Mercado Pago QR;Delivery propio
+25/12/2025;Café chico;13;3450;Efectivo;Mostrador
+25/12/2025;Café chico;12;3450;Tarjeta de débito;Mostrador
+25/12/2025;Café chico;10;3450;Mercado Pago QR;Mostrador
+25/12/2025;Café chico;9;3450;PedidosYa (pago en app);PedidosYa
+25/12/2025;Café grande;8;3600;Efectivo;Mostrador
+25/12/2025;Café grande;8;3600;Tarjeta de débito;Mostrador
+25/12/2025;Café grande;6;3600;Mercado Pago QR;Mostrador
+25/12/2025;Café grande;6;3600;PedidosYa (pago en app);PedidosYa
+25/12/2025;Café grande;4;3600;Mercado Pago QR;Delivery propio
+25/12/2025;Coca-Cola;12;2400;Efectivo;Mostrador
+25/12/2025;Coca-Cola;13;2400;Tarjeta de débito;Mostrador
+25/12/2025;Coca-Cola;10;2400;Mercado Pago QR;Mostrador
+25/12/2025;Coca-Cola;2;2400;PedidosYa (pago en app);PedidosYa
+25/12/2025;Coca-Cola Zero;5;2400;Efectivo;Mostrador
+25/12/2025;Coca-Cola Zero;5;2400;Tarjeta de débito;Mostrador
+25/12/2025;Coca-Cola Zero;5;2400;Mercado Pago QR;Mostrador
+25/12/2025;Coca-Cola Zero;2;2400;PedidosYa (pago en app);PedidosYa
+25/12/2025;Fanta;1;2400;Efectivo;Mostrador
+25/12/2025;Fanta;1;2400;Tarjeta de débito;Mostrador
+25/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+25/12/2025;Sprite;2;2400;Efectivo;Mostrador
+25/12/2025;Sprite;2;2400;Tarjeta de débito;Mostrador
+25/12/2025;Sprite;2;2400;Mercado Pago QR;Mostrador
+25/12/2025;Sprite Zero;2;2400;Efectivo;Mostrador
+25/12/2025;Sprite Zero;2;2400;Tarjeta de débito;Mostrador
+25/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+25/12/2025;Sprite Zero;2;2400;PedidosYa (pago en app);PedidosYa
+25/12/2025;Agua con gas;5;1950;Efectivo;Mostrador
+25/12/2025;Agua con gas;7;1950;Tarjeta de débito;Mostrador
+25/12/2025;Agua con gas;5;1950;Mercado Pago QR;Mostrador
+25/12/2025;Agua con gas;2;1950;Mercado Pago QR;Delivery propio
+25/12/2025;Agua sin gas;7;1950;Efectivo;Mostrador
+25/12/2025;Agua sin gas;7;1950;Tarjeta de débito;Mostrador
+25/12/2025;Agua sin gas;5;1950;Mercado Pago QR;Mostrador
+25/12/2025;Agua sin gas;2;1950;PedidosYa (pago en app);PedidosYa
+25/12/2025;Agua sin gas;1;1950;Efectivo;Delivery propio
+26/12/2025;Churro simple;29;900;Efectivo;Mostrador
+26/12/2025;Churro simple;31;900;Tarjeta de débito;Mostrador
+26/12/2025;Churro simple;27;900;Mercado Pago QR;Mostrador
+26/12/2025;Churro simple;16;900;PedidosYa (pago en app);PedidosYa
+26/12/2025;Churro simple;7;900;Efectivo;Delivery propio
+26/12/2025;Churro con cobertura de chocolate;13;1150;Efectivo;Mostrador
+26/12/2025;Churro con cobertura de chocolate;13;1150;Tarjeta de débito;Mostrador
+26/12/2025;Churro con cobertura de chocolate;9;1150;Mercado Pago QR;Mostrador
+26/12/2025;Churro con cobertura de chocolate;11;1150;PedidosYa (pago en app);PedidosYa
+26/12/2025;Churro con cobertura de chocolate;6;1150;Efectivo;Delivery propio
+26/12/2025;Churro relleno común;23;1200;Efectivo;Mostrador
+26/12/2025;Churro relleno común;19;1200;Tarjeta de débito;Mostrador
+26/12/2025;Churro relleno común;15;1200;Mercado Pago QR;Mostrador
+26/12/2025;Churro relleno común;12;1200;PedidosYa (pago en app);PedidosYa
+26/12/2025;Churro relleno común;6;1200;Efectivo;Delivery propio
+26/12/2025;Churro relleno especial;7;1200;Efectivo;Mostrador
+26/12/2025;Churro relleno especial;5;1200;Tarjeta de débito;Mostrador
+26/12/2025;Churro relleno especial;5;1200;Mercado Pago QR;Mostrador
+26/12/2025;Churro relleno especial;5;1200;PedidosYa (pago en app);PedidosYa
+26/12/2025;Churro salado;8;1200;Efectivo;Mostrador
+26/12/2025;Churro salado;7;1200;Tarjeta de débito;Mostrador
+26/12/2025;Churro salado;6;1200;Mercado Pago QR;Mostrador
+26/12/2025;Churro salado;1;1200;PedidosYa (pago en app);PedidosYa
+26/12/2025;Churro salado;1;1200;Efectivo;Delivery propio
+26/12/2025;Café chico;8;3450;Efectivo;Mostrador
+26/12/2025;Café chico;8;3450;Tarjeta de débito;Mostrador
+26/12/2025;Café chico;6;3450;Mercado Pago QR;Mostrador
+26/12/2025;Café chico;6;3450;PedidosYa (pago en app);PedidosYa
+26/12/2025;Café grande;5;3600;Efectivo;Mostrador
+26/12/2025;Café grande;5;3600;Tarjeta de débito;Mostrador
+26/12/2025;Café grande;4;3600;Mercado Pago QR;Mostrador
+26/12/2025;Café grande;6;3600;PedidosYa (pago en app);PedidosYa
+26/12/2025;Café grande;1;3600;Efectivo;Delivery propio
+26/12/2025;Coca-Cola;7;2400;Efectivo;Mostrador
+26/12/2025;Coca-Cola;9;2400;Tarjeta de débito;Mostrador
+26/12/2025;Coca-Cola;6;2400;Mercado Pago QR;Mostrador
+26/12/2025;Coca-Cola;8;2400;PedidosYa (pago en app);PedidosYa
+26/12/2025;Coca-Cola Zero;5;2400;Efectivo;Mostrador
+26/12/2025;Coca-Cola Zero;6;2400;Tarjeta de débito;Mostrador
+26/12/2025;Coca-Cola Zero;4;2400;Mercado Pago QR;Mostrador
+26/12/2025;Coca-Cola Zero;1;2400;PedidosYa (pago en app);PedidosYa
+26/12/2025;Coca-Cola Zero;2;2400;Efectivo;Delivery propio
+26/12/2025;Fanta;2;2400;Efectivo;Mostrador
+26/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+26/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+26/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+26/12/2025;Sprite;4;2400;Efectivo;Mostrador
+26/12/2025;Sprite;4;2400;Tarjeta de débito;Mostrador
+26/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+26/12/2025;Sprite;1;2400;PedidosYa (pago en app);PedidosYa
+26/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+26/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+26/12/2025;Sprite Zero;2;2400;PedidosYa (pago en app);PedidosYa
+26/12/2025;Agua con gas;1;1950;Efectivo;Mostrador
+26/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+26/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+26/12/2025;Agua con gas;4;1950;PedidosYa (pago en app);PedidosYa
+26/12/2025;Agua sin gas;3;1950;Efectivo;Mostrador
+26/12/2025;Agua sin gas;3;1950;Tarjeta de débito;Mostrador
+26/12/2025;Agua sin gas;2;1950;Mercado Pago QR;Mostrador
+26/12/2025;Agua sin gas;5;1950;PedidosYa (pago en app);PedidosYa
+26/12/2025;Agua sin gas;1;1950;Efectivo;Delivery propio
+27/12/2025;Churro simple;32;900;Efectivo;Mostrador
+27/12/2025;Churro simple;42;900;Tarjeta de débito;Mostrador
+27/12/2025;Churro simple;29;900;Mercado Pago QR;Mostrador
+27/12/2025;Churro simple;16;900;PedidosYa (pago en app);PedidosYa
+27/12/2025;Churro simple;10;900;Mercado Pago QR;Delivery propio
+27/12/2025;Churro con cobertura de chocolate;18;1150;Efectivo;Mostrador
+27/12/2025;Churro con cobertura de chocolate;20;1150;Tarjeta de débito;Mostrador
+27/12/2025;Churro con cobertura de chocolate;14;1150;Mercado Pago QR;Mostrador
+27/12/2025;Churro con cobertura de chocolate;4;1150;PedidosYa (pago en app);PedidosYa
+27/12/2025;Churro con cobertura de chocolate;2;1150;Efectivo;Delivery propio
+27/12/2025;Churro relleno común;27;1200;Efectivo;Mostrador
+27/12/2025;Churro relleno común;31;1200;Tarjeta de débito;Mostrador
+27/12/2025;Churro relleno común;26;1200;Mercado Pago QR;Mostrador
+27/12/2025;Churro relleno común;6;1200;PedidosYa (pago en app);PedidosYa
+27/12/2025;Churro relleno común;7;1200;Efectivo;Delivery propio
+27/12/2025;Churro relleno especial;9;1200;Efectivo;Mostrador
+27/12/2025;Churro relleno especial;10;1200;Tarjeta de débito;Mostrador
+27/12/2025;Churro relleno especial;7;1200;Mercado Pago QR;Mostrador
+27/12/2025;Churro relleno especial;3;1200;PedidosYa (pago en app);PedidosYa
+27/12/2025;Churro relleno especial;2;1200;Efectivo;Delivery propio
+27/12/2025;Churro salado;8;1200;Efectivo;Mostrador
+27/12/2025;Churro salado;9;1200;Tarjeta de débito;Mostrador
+27/12/2025;Churro salado;8;1200;Mercado Pago QR;Mostrador
+27/12/2025;Churro salado;3;1200;PedidosYa (pago en app);PedidosYa
+27/12/2025;Churro salado;1;1200;Mercado Pago QR;Delivery propio
+27/12/2025;Café chico;10;3450;Efectivo;Mostrador
+27/12/2025;Café chico;9;3450;Tarjeta de débito;Mostrador
+27/12/2025;Café chico;7;3450;Mercado Pago QR;Mostrador
+27/12/2025;Café chico;4;3450;PedidosYa (pago en app);PedidosYa
+27/12/2025;Café chico;1;3450;Mercado Pago QR;Delivery propio
+27/12/2025;Café grande;6;3600;Efectivo;Mostrador
+27/12/2025;Café grande;7;3600;Tarjeta de débito;Mostrador
+27/12/2025;Café grande;6;3600;Mercado Pago QR;Mostrador
+27/12/2025;Café grande;1;3600;PedidosYa (pago en app);PedidosYa
+27/12/2025;Café grande;3;3600;Efectivo;Delivery propio
+27/12/2025;Coca-Cola;9;2400;Efectivo;Mostrador
+27/12/2025;Coca-Cola;9;2400;Tarjeta de débito;Mostrador
+27/12/2025;Coca-Cola;6;2400;Mercado Pago QR;Mostrador
+27/12/2025;Coca-Cola;6;2400;PedidosYa (pago en app);PedidosYa
+27/12/2025;Coca-Cola;2;2400;Efectivo;Delivery propio
+27/12/2025;Coca-Cola Zero;3;2400;Efectivo;Mostrador
+27/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+27/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+27/12/2025;Fanta;2;2400;Efectivo;Mostrador
+27/12/2025;Fanta;3;2400;Tarjeta de débito;Mostrador
+27/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+27/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+27/12/2025;Sprite;2;2400;Efectivo;Mostrador
+27/12/2025;Sprite;2;2400;Tarjeta de débito;Mostrador
+27/12/2025;Sprite;2;2400;Mercado Pago QR;Mostrador
+27/12/2025;Sprite;3;2400;PedidosYa (pago en app);PedidosYa
+27/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+27/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+27/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+27/12/2025;Sprite Zero;3;2400;PedidosYa (pago en app);PedidosYa
+27/12/2025;Agua con gas;2;1950;Efectivo;Mostrador
+27/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+27/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+27/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+27/12/2025;Agua sin gas;3;1950;Efectivo;Mostrador
+27/12/2025;Agua sin gas;4;1950;Tarjeta de débito;Mostrador
+27/12/2025;Agua sin gas;3;1950;Mercado Pago QR;Mostrador
+27/12/2025;Agua sin gas;1;1950;PedidosYa (pago en app);PedidosYa
+28/12/2025;Churro simple;47;900;Efectivo;Mostrador
+28/12/2025;Churro simple;53;900;Tarjeta de débito;Mostrador
+28/12/2025;Churro simple;40;900;Mercado Pago QR;Mostrador
+28/12/2025;Churro simple;18;900;PedidosYa (pago en app);PedidosYa
+28/12/2025;Churro simple;7;900;Mercado Pago QR;Delivery propio
+28/12/2025;Churro con cobertura de chocolate;19;1150;Efectivo;Mostrador
+28/12/2025;Churro con cobertura de chocolate;19;1150;Tarjeta de débito;Mostrador
+28/12/2025;Churro con cobertura de chocolate;17;1150;Mercado Pago QR;Mostrador
+28/12/2025;Churro con cobertura de chocolate;19;1150;PedidosYa (pago en app);PedidosYa
+28/12/2025;Churro con cobertura de chocolate;6;1150;Efectivo;Delivery propio
+28/12/2025;Churro relleno común;33;1200;Efectivo;Mostrador
+28/12/2025;Churro relleno común;29;1200;Tarjeta de débito;Mostrador
+28/12/2025;Churro relleno común;22;1200;Mercado Pago QR;Mostrador
+28/12/2025;Churro relleno común;23;1200;PedidosYa (pago en app);PedidosYa
+28/12/2025;Churro relleno común;5;1200;Efectivo;Delivery propio
+28/12/2025;Churro relleno especial;12;1200;Efectivo;Mostrador
+28/12/2025;Churro relleno especial;14;1200;Tarjeta de débito;Mostrador
+28/12/2025;Churro relleno especial;9;1200;Mercado Pago QR;Mostrador
+28/12/2025;Churro relleno especial;9;1200;PedidosYa (pago en app);PedidosYa
+28/12/2025;Churro salado;10;1200;Efectivo;Mostrador
+28/12/2025;Churro salado;10;1200;Tarjeta de débito;Mostrador
+28/12/2025;Churro salado;8;1200;Mercado Pago QR;Mostrador
+28/12/2025;Churro salado;6;1200;PedidosYa (pago en app);PedidosYa
+28/12/2025;Churro salado;1;1200;Mercado Pago QR;Delivery propio
+28/12/2025;Café chico;11;3450;Efectivo;Mostrador
+28/12/2025;Café chico;12;3450;Tarjeta de débito;Mostrador
+28/12/2025;Café chico;11;3450;Mercado Pago QR;Mostrador
+28/12/2025;Café chico;7;3450;PedidosYa (pago en app);PedidosYa
+28/12/2025;Café chico;2;3450;Efectivo;Delivery propio
+28/12/2025;Café grande;5;3600;Efectivo;Mostrador
+28/12/2025;Café grande;4;3600;Tarjeta de débito;Mostrador
+28/12/2025;Café grande;4;3600;Mercado Pago QR;Mostrador
+28/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+28/12/2025;Café grande;1;3600;Efectivo;Delivery propio
+28/12/2025;Coca-Cola;8;2400;Efectivo;Mostrador
+28/12/2025;Coca-Cola;9;2400;Tarjeta de débito;Mostrador
+28/12/2025;Coca-Cola;7;2400;Mercado Pago QR;Mostrador
+28/12/2025;Coca-Cola;5;2400;PedidosYa (pago en app);PedidosYa
+28/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+28/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+28/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+28/12/2025;Coca-Cola Zero;3;2400;PedidosYa (pago en app);PedidosYa
+28/12/2025;Fanta;1;2400;Efectivo;Mostrador
+28/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+28/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+28/12/2025;Fanta;1;2400;PedidosYa (pago en app);PedidosYa
+28/12/2025;Sprite;5;2400;Efectivo;Mostrador
+28/12/2025;Sprite;4;2400;Tarjeta de débito;Mostrador
+28/12/2025;Sprite;4;2400;Mercado Pago QR;Mostrador
+28/12/2025;Sprite;1;2400;PedidosYa (pago en app);PedidosYa
+28/12/2025;Sprite;3;2400;Mercado Pago QR;Delivery propio
+28/12/2025;Sprite Zero;2;2400;Efectivo;Mostrador
+28/12/2025;Sprite Zero;3;2400;Tarjeta de débito;Mostrador
+28/12/2025;Sprite Zero;3;2400;Mercado Pago QR;Mostrador
+28/12/2025;Agua con gas;3;1950;Efectivo;Mostrador
+28/12/2025;Agua con gas;2;1950;Tarjeta de débito;Mostrador
+28/12/2025;Agua con gas;2;1950;Mercado Pago QR;Mostrador
+28/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+28/12/2025;Agua sin gas;6;1950;Efectivo;Mostrador
+28/12/2025;Agua sin gas;7;1950;Tarjeta de débito;Mostrador
+28/12/2025;Agua sin gas;5;1950;Mercado Pago QR;Mostrador
+28/12/2025;Agua sin gas;1;1950;PedidosYa (pago en app);PedidosYa
+29/12/2025;Churro simple;32;900;Efectivo;Mostrador
+29/12/2025;Churro simple;41;900;Tarjeta de débito;Mostrador
+29/12/2025;Churro simple;30;900;Mercado Pago QR;Mostrador
+29/12/2025;Churro simple;25;900;PedidosYa (pago en app);PedidosYa
+29/12/2025;Churro simple;12;900;Mercado Pago QR;Delivery propio
+29/12/2025;Churro con cobertura de chocolate;16;1150;Efectivo;Mostrador
+29/12/2025;Churro con cobertura de chocolate;14;1150;Tarjeta de débito;Mostrador
+29/12/2025;Churro con cobertura de chocolate;11;1150;Mercado Pago QR;Mostrador
+29/12/2025;Churro con cobertura de chocolate;9;1150;PedidosYa (pago en app);PedidosYa
+29/12/2025;Churro con cobertura de chocolate;5;1150;Mercado Pago QR;Delivery propio
+29/12/2025;Churro relleno común;26;1200;Efectivo;Mostrador
+29/12/2025;Churro relleno común;26;1200;Tarjeta de débito;Mostrador
+29/12/2025;Churro relleno común;18;1200;Mercado Pago QR;Mostrador
+29/12/2025;Churro relleno común;14;1200;PedidosYa (pago en app);PedidosYa
+29/12/2025;Churro relleno común;5;1200;Efectivo;Delivery propio
+29/12/2025;Churro relleno especial;11;1200;Efectivo;Mostrador
+29/12/2025;Churro relleno especial;10;1200;Tarjeta de débito;Mostrador
+29/12/2025;Churro relleno especial;8;1200;Mercado Pago QR;Mostrador
+29/12/2025;Churro relleno especial;3;1200;PedidosYa (pago en app);PedidosYa
+29/12/2025;Churro relleno especial;1;1200;Efectivo;Delivery propio
+29/12/2025;Churro salado;4;1200;Efectivo;Mostrador
+29/12/2025;Churro salado;4;1200;Tarjeta de débito;Mostrador
+29/12/2025;Churro salado;3;1200;Mercado Pago QR;Mostrador
+29/12/2025;Churro salado;2;1200;PedidosYa (pago en app);PedidosYa
+29/12/2025;Churro salado;4;1200;Efectivo;Delivery propio
+29/12/2025;Café chico;9;3450;Efectivo;Mostrador
+29/12/2025;Café chico;12;3450;Tarjeta de débito;Mostrador
+29/12/2025;Café chico;9;3450;Mercado Pago QR;Mostrador
+29/12/2025;Café chico;2;3450;PedidosYa (pago en app);PedidosYa
+29/12/2025;Café chico;4;3450;Efectivo;Delivery propio
+29/12/2025;Café grande;7;3600;Efectivo;Mostrador
+29/12/2025;Café grande;6;3600;Tarjeta de débito;Mostrador
+29/12/2025;Café grande;4;3600;Mercado Pago QR;Mostrador
+29/12/2025;Café grande;4;3600;PedidosYa (pago en app);PedidosYa
+29/12/2025;Coca-Cola;9;2400;Efectivo;Mostrador
+29/12/2025;Coca-Cola;8;2400;Tarjeta de débito;Mostrador
+29/12/2025;Coca-Cola;6;2400;Mercado Pago QR;Mostrador
+29/12/2025;Coca-Cola;4;2400;PedidosYa (pago en app);PedidosYa
+29/12/2025;Coca-Cola;1;2400;Mercado Pago QR;Delivery propio
+29/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+29/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+29/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+29/12/2025;Coca-Cola Zero;4;2400;PedidosYa (pago en app);PedidosYa
+29/12/2025;Coca-Cola Zero;1;2400;Mercado Pago QR;Delivery propio
+29/12/2025;Fanta;2;2400;Efectivo;Mostrador
+29/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+29/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+29/12/2025;Fanta;4;2400;PedidosYa (pago en app);PedidosYa
+29/12/2025;Sprite;2;2400;Efectivo;Mostrador
+29/12/2025;Sprite;2;2400;Tarjeta de débito;Mostrador
+29/12/2025;Sprite;2;2400;Mercado Pago QR;Mostrador
+29/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+29/12/2025;Sprite Zero;1;2400;Tarjeta de débito;Mostrador
+29/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+29/12/2025;Agua con gas;1;1950;Efectivo;Mostrador
+29/12/2025;Agua con gas;1;1950;Tarjeta de débito;Mostrador
+29/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+29/12/2025;Agua sin gas;2;1950;Efectivo;Mostrador
+29/12/2025;Agua sin gas;3;1950;Tarjeta de débito;Mostrador
+29/12/2025;Agua sin gas;2;1950;Mercado Pago QR;Mostrador
+29/12/2025;Agua sin gas;3;1950;PedidosYa (pago en app);PedidosYa
+30/12/2025;Churro simple;43;900;Efectivo;Mostrador
+30/12/2025;Churro simple;39;900;Tarjeta de débito;Mostrador
+30/12/2025;Churro simple;32;900;Mercado Pago QR;Mostrador
+30/12/2025;Churro simple;18;900;PedidosYa (pago en app);PedidosYa
+30/12/2025;Churro simple;6;900;Efectivo;Delivery propio
+30/12/2025;Churro con cobertura de chocolate;14;1150;Efectivo;Mostrador
+30/12/2025;Churro con cobertura de chocolate;12;1150;Tarjeta de débito;Mostrador
+30/12/2025;Churro con cobertura de chocolate;11;1150;Mercado Pago QR;Mostrador
+30/12/2025;Churro con cobertura de chocolate;5;1150;PedidosYa (pago en app);PedidosYa
+30/12/2025;Churro con cobertura de chocolate;7;1150;Efectivo;Delivery propio
+30/12/2025;Churro relleno común;22;1200;Efectivo;Mostrador
+30/12/2025;Churro relleno común;27;1200;Tarjeta de débito;Mostrador
+30/12/2025;Churro relleno común;21;1200;Mercado Pago QR;Mostrador
+30/12/2025;Churro relleno común;6;1200;PedidosYa (pago en app);PedidosYa
+30/12/2025;Churro relleno común;3;1200;Mercado Pago QR;Delivery propio
+30/12/2025;Churro relleno especial;8;1200;Efectivo;Mostrador
+30/12/2025;Churro relleno especial;8;1200;Tarjeta de débito;Mostrador
+30/12/2025;Churro relleno especial;8;1200;Mercado Pago QR;Mostrador
+30/12/2025;Churro relleno especial;9;1200;PedidosYa (pago en app);PedidosYa
+30/12/2025;Churro relleno especial;2;1200;Efectivo;Delivery propio
+30/12/2025;Churro salado;5;1200;Efectivo;Mostrador
+30/12/2025;Churro salado;5;1200;Tarjeta de débito;Mostrador
+30/12/2025;Churro salado;5;1200;Mercado Pago QR;Mostrador
+30/12/2025;Churro salado;9;1200;PedidosYa (pago en app);PedidosYa
+30/12/2025;Churro salado;3;1200;Efectivo;Delivery propio
+30/12/2025;Café chico;9;3450;Efectivo;Mostrador
+30/12/2025;Café chico;10;3450;Tarjeta de débito;Mostrador
+30/12/2025;Café chico;7;3450;Mercado Pago QR;Mostrador
+30/12/2025;Café chico;6;3450;PedidosYa (pago en app);PedidosYa
+30/12/2025;Café chico;1;3450;Mercado Pago QR;Delivery propio
+30/12/2025;Café grande;7;3600;Efectivo;Mostrador
+30/12/2025;Café grande;9;3600;Tarjeta de débito;Mostrador
+30/12/2025;Café grande;6;3600;Mercado Pago QR;Mostrador
+30/12/2025;Coca-Cola;8;2400;Efectivo;Mostrador
+30/12/2025;Coca-Cola;9;2400;Tarjeta de débito;Mostrador
+30/12/2025;Coca-Cola;8;2400;Mercado Pago QR;Mostrador
+30/12/2025;Coca-Cola;4;2400;PedidosYa (pago en app);PedidosYa
+30/12/2025;Coca-Cola;1;2400;Mercado Pago QR;Delivery propio
+30/12/2025;Coca-Cola Zero;4;2400;Efectivo;Mostrador
+30/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+30/12/2025;Coca-Cola Zero;3;2400;Mercado Pago QR;Mostrador
+30/12/2025;Coca-Cola Zero;1;2400;PedidosYa (pago en app);PedidosYa
+30/12/2025;Fanta;1;2400;Efectivo;Mostrador
+30/12/2025;Fanta;2;2400;Tarjeta de débito;Mostrador
+30/12/2025;Fanta;1;2400;Mercado Pago QR;Mostrador
+30/12/2025;Fanta;3;2400;PedidosYa (pago en app);PedidosYa
+30/12/2025;Fanta;3;2400;Efectivo;Delivery propio
+30/12/2025;Sprite;3;2400;Efectivo;Mostrador
+30/12/2025;Sprite;2;2400;Tarjeta de débito;Mostrador
+30/12/2025;Sprite;2;2400;Mercado Pago QR;Mostrador
+30/12/2025;Sprite;3;2400;PedidosYa (pago en app);PedidosYa
+30/12/2025;Sprite Zero;1;2400;Efectivo;Mostrador
+30/12/2025;Sprite Zero;2;2400;Tarjeta de débito;Mostrador
+30/12/2025;Sprite Zero;1;2400;Mercado Pago QR;Mostrador
+30/12/2025;Sprite Zero;1;2400;PedidosYa (pago en app);PedidosYa
+30/12/2025;Agua con gas;3;1950;Efectivo;Mostrador
+30/12/2025;Agua con gas;3;1950;Tarjeta de débito;Mostrador
+30/12/2025;Agua con gas;3;1950;Mercado Pago QR;Mostrador
+30/12/2025;Agua con gas;1;1950;PedidosYa (pago en app);PedidosYa
+30/12/2025;Agua sin gas;5;1950;Efectivo;Mostrador
+30/12/2025;Agua sin gas;5;1950;Tarjeta de débito;Mostrador
+30/12/2025;Agua sin gas;5;1950;Mercado Pago QR;Mostrador
+30/12/2025;Agua sin gas;5;1950;PedidosYa (pago en app);PedidosYa
+30/12/2025;Agua sin gas;1;1950;Mercado Pago QR;Delivery propio
+31/12/2025;Churro simple;39;900;Efectivo;Mostrador
+31/12/2025;Churro simple;38;900;Tarjeta de débito;Mostrador
+31/12/2025;Churro simple;26;900;Mercado Pago QR;Mostrador
+31/12/2025;Churro simple;12;900;PedidosYa (pago en app);PedidosYa
+31/12/2025;Churro simple;6;900;Efectivo;Delivery propio
+31/12/2025;Churro con cobertura de chocolate;16;1150;Efectivo;Mostrador
+31/12/2025;Churro con cobertura de chocolate;14;1150;Tarjeta de débito;Mostrador
+31/12/2025;Churro con cobertura de chocolate;13;1150;Mercado Pago QR;Mostrador
+31/12/2025;Churro con cobertura de chocolate;6;1150;PedidosYa (pago en app);PedidosYa
+31/12/2025;Churro con cobertura de chocolate;1;1150;Mercado Pago QR;Delivery propio
+31/12/2025;Churro relleno común;23;1200;Efectivo;Mostrador
+31/12/2025;Churro relleno común;23;1200;Tarjeta de débito;Mostrador
+31/12/2025;Churro relleno común;21;1200;Mercado Pago QR;Mostrador
+31/12/2025;Churro relleno común;10;1200;PedidosYa (pago en app);PedidosYa
+31/12/2025;Churro relleno común;2;1200;Mercado Pago QR;Delivery propio
+31/12/2025;Churro relleno especial;10;1200;Efectivo;Mostrador
+31/12/2025;Churro relleno especial;8;1200;Tarjeta de débito;Mostrador
+31/12/2025;Churro relleno especial;7;1200;Mercado Pago QR;Mostrador
+31/12/2025;Churro relleno especial;6;1200;PedidosYa (pago en app);PedidosYa
+31/12/2025;Churro relleno especial;2;1200;Mercado Pago QR;Delivery propio
+31/12/2025;Churro salado;11;1200;Efectivo;Mostrador
+31/12/2025;Churro salado;9;1200;Tarjeta de débito;Mostrador
+31/12/2025;Churro salado;7;1200;Mercado Pago QR;Mostrador
+31/12/2025;Churro salado;1;1200;PedidosYa (pago en app);PedidosYa
+31/12/2025;Churro salado;1;1200;Efectivo;Delivery propio
+31/12/2025;Café chico;10;3450;Efectivo;Mostrador
+31/12/2025;Café chico;12;3450;Tarjeta de débito;Mostrador
+31/12/2025;Café chico;11;3450;Mercado Pago QR;Mostrador
+31/12/2025;Café chico;3;3450;PedidosYa (pago en app);PedidosYa
+31/12/2025;Café chico;1;3450;Mercado Pago QR;Delivery propio
+31/12/2025;Café grande;6;3600;Efectivo;Mostrador
+31/12/2025;Café grande;6;3600;Tarjeta de débito;Mostrador
+31/12/2025;Café grande;5;3600;Mercado Pago QR;Mostrador
+31/12/2025;Café grande;3;3600;PedidosYa (pago en app);PedidosYa
+31/12/2025;Café grande;3;3600;Efectivo;Delivery propio
+31/12/2025;Coca-Cola;7;2400;Efectivo;Mostrador
+31/12/2025;Coca-Cola;7;2400;Tarjeta de débito;Mostrador
+31/12/2025;Coca-Cola;5;2400;Mercado Pago QR;Mostrador
+31/12/2025;Coca-Cola;9;2400;PedidosYa (pago en app);PedidosYa
+31/12/2025;Coca-Cola Zero;3;2400;Efectivo;Mostrador
+31/12/2025;Coca-Cola Zero;4;2400;Tarjeta de débito;Mostrador
+31/12/2025;Coca-Cola Zero;2;2400;Mercado Pago QR;Mostrador
+31/12/2025;Coca-Cola Zero;2;2400;PedidosYa (pago en app);PedidosYa
+31/12/2025;Coca-Cola Zero;1;2400;Efectivo;Delivery propio
+31/12/2025;Fanta;3;2400;Efectivo;Mostrador
+31/12/2025;Fanta;3;2400;Tarjeta de débito;Mostrador
+31/12/2025;Fanta;2;2400;Mercado Pago QR;Mostrador
+31/12/2025;Fanta;3;2400;PedidosYa (pago en app);PedidosYa
+31/12/2025;Sprite;5;2400;Efectivo;Mostrador
+31/12/2025;Sprite;5;2400;Tarjeta de débito;Mostrador
+31/12/2025;Sprite;3;2400;Mercado Pago QR;Mostrador
+31/12/2025;Sprite;2;2400;PedidosYa (pago en app);PedidosYa
+31/12/2025;Sprite Zero;3;2400;Efectivo;Mostrador
+31/12/2025;Sprite Zero;2;2400;Tarjeta de débito;Mostrador
+31/12/2025;Sprite Zero;2;2400;Mercado Pago QR;Mostrador
+31/12/2025;Agua con gas;1;1950;Efectivo;Mostrador
+31/12/2025;Agua con gas;1;1950;Tarjeta de débito;Mostrador
+31/12/2025;Agua con gas;1;1950;Mercado Pago QR;Mostrador
+31/12/2025;Agua sin gas;4;1950;Efectivo;Mostrador
+31/12/2025;Agua sin gas;4;1950;Tarjeta de débito;Mostrador
+31/12/2025;Agua sin gas;4;1950;Mercado Pago QR;Mostrador
+31/12/2025;Agua sin gas;2;1950;PedidosYa (pago en app);PedidosYa

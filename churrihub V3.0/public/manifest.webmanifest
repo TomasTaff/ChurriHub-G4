@@ -1,0 +1,16 @@
+{
+  "name": "ChurriHub — Tu Churrito",
+  "short_name": "ChurriHub",
+  "description": "Gestión de sucursales de Tu Churrito: ventas, caja, stock, compras y reportes.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF8F2",
+  "theme_color": "#F6603A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
